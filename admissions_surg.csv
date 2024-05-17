@@ -1,0 +1,1196 @@
+ID,ADMISSION.DATE,ADMISSION.TIME,DISCHARGE.DATE,DISCHARGE.TIME,DEPARTMENT,GENDER,AGE,MAIN.DIAGNOSIS.ICD10,MAIN.DIAGNOSIS.NAME
+1068,1998-02-01,07:02,1998-03-31,07:17,General Surgery,M,,E0800,Diabetes mellitus with complications
+1125,2010-11-30,04:33,2011-03-25,20:59,General Surgery,F,24,M0500,Rheumatoid arthritis and related disease
+1127,2015-03-05,09:40,2015-08-28,04:51,General Surgery,M,92,O045,Induced abortion
+1363,1987-11-07,21:37,1988-05-10,15:32,General Surgery,F,93,A6000,Viral infection
+1388,1997-07-03,03:44,1997-12-27,03:45,General Surgery,F,75,K640,Hemorrhoids
+1403,2006-08-05,01:11,2006-10-03,19:38,General Surgery,M,92,Z020,Administrative/social admission
+1419,1998-05-28,13:44,1998-11-20,01:42,Obstetrics,F,86,K640,
+1435,1989-09-24,10:06,1989-11-15,07:16,Obstetrics,M,,Y620,Adverse effects of medical care
+1631,1998-11-13,13:45,1999-05-12,,Obstetrics,M,65,D5700,Sickle cell anemia
+1654,2006-06-30,02:22,2006-11-30,05:02,General Surgery,M,18,D700,
+1818,2008-05-24,14:18,2008-11-14,12:48,General Surgery,F,31,O30021,Fetopelvic disproportion; obstruction
+2126,1999-12-29,22:55,2000-05-02,16:44,General Surgery,M,43,A211,
+2142,1981-09-28,23:23,1981-12-03,13:15,Obstetrics,F,96,C459,Malignant neoplasm without specification of site
+2347,2003-03-18,04:49,2003-07-26,01:51,Obstetrics,F,30,C6200,Cancer of testis
+2453,1989-07-26,16:12,1989-08-27,18:53,General Surgery,F,24,V00111A,External cause codes:  Fall
+2614,1980-05-27,22:47,1980-06-12,16:50,General Surgery,F,63,I440,Conduction disorders
+2635,2015-12-17,15:49,2016-02-18,19:36,General Surgery,M,90,B20,HIV infection
+2766,2014-08-01,20:52,2015-01-13,17:44,General Surgery,M,88,I470,Cardiac dysrhythmias
+2770,2015-12-18,09:40,2016-04-15,12:07,General Surgery,M,96,A0104,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease)
+2776,1999-12-10,23:05,2000-02-28,22:00,Obstetrics,F,60,I110,Hypertension with complications and secondary hypertension
+3068,2000-02-14,05:31,2000-06-05,22:54,General Surgery,M,17,R45851,Suicide and intentional self-inflicted injury
+3107,2012-09-10,03:31,2013-01-06,06:58,General Surgery,F,52,M84311A,Fracture of upper limb
+3402,1982-11-27,16:11,1983-01-09,01:14,General Surgery,F,59,C000,Cancer of head and neck
+3470,1985-12-18,04:56,1986-04-17,,General Surgery,F,22,Y620,Adverse effects of medical care
+3490,1990-12-19,09:14,1991-04-20,03:17,General Surgery,F,26,K5000,Regional enteritis and ulcerative colitis
+3574,1988-07-14,05:14,1988-07-19,05:47,General Surgery,M,92,G933,Malaise and fatigue
+3577,2013-10-23,13:19,2013-12-22,10:13,General Surgery,M,41,E840,Cystic fibrosis
+3613,1992-09-26,11:26,1993-02-13,20:11,Obstetrics,F,26,C73,
+3634,2006-11-12,06:47,2007-01-02,07:35,General Surgery,M,49,N170,Acute and unspecified renal failure
+3670,2018-04-28,05:09,2018-11-13,,General Surgery,F,95,C6200,Cancer of testis
+3681,2017-03-13,07:20,2017-05-22,01:44,General Surgery,F,21,K850,Pancreatic disorders (not diabetes)
+3840,1985-06-20,16:28,1985-10-06,,General Surgery,F,31,G40001,Epilepsy; convulsions
+3853,1989-01-10,03:45,1989-04-07,16:48,General Surgery,M,24,I8501,Gastrointestinal hemorrhage
+3993,1984-12-08,23:54,1985-05-16,16:21,Obstetrics,M,80,M0500,Rheumatoid arthritis and related disease
+4041,2018-05-18,13:55,2018-11-14,10:45,General Surgery,F,31,O030,Spontaneous abortion
+4072,1999-04-23,10:28,1999-06-19,22:59,Obstetrics,M,63,P550,Hemolytic jaundice and perinatal jaundice
+4177,1980-04-01,06:19,1980-06-24,15:36,General Surgery,F,55,W240XXA,External cause codes:  Machinery
+4320,1988-04-26,04:52,1988-09-06,02:40,Obstetrics,F,79,C3400,Cancer of bronchus; lung
+4346,1983-07-13,16:23,1983-12-27,04:21,General Surgery,M,97,G43001,
+4381,1999-04-20,04:34,1999-08-11,18:03,General Surgery,F,82,O080,Postabortion complications
+4396,1988-07-30,07:48,1989-01-09,15:11,Obstetrics,M,62,S060X0A,Intracranial injury
+4407,1982-12-22,03:08,1983-04-05,,General Surgery,F,42,N181,Chronic kidney disease
+4410,2004-10-20,17:27,2004-11-16,05:16,General Surgery,M,97,N170,Acute and unspecified renal failure
+4555,2011-08-05,20:22,2011-09-26,23:18,General Surgery,F,37,J40,Chronic obstructive pulmonary disease and bronchiectasis
+4727,1995-08-28,01:28,1996-02-12,14:01,General Surgery,M,97,B350,
+4728,2009-12-12,08:35,2010-03-26,09:24,General Surgery,M,74,C470,
+4905,2019-06-14,22:13,2019-08-15,03:19,General Surgery,M,55,I700,Peripheral and visceral atherosclerosis
+5025,2000-10-04,09:33,2001-01-28,04:43,General Surgery,M,74,C000,Cancer of head and neck
+5104,1981-11-02,12:45,1982-05-17,05:58,General Surgery,F,47,J690,Aspiration pneumonitis; food/vomitus
+5140,1984-05-08,13:37,1984-06-19,18:34,General Surgery,M,96,D250,Benign neoplasm of uterus
+5365,1983-10-12,21:44,1983-10-15,07:07,General Surgery,M,37,F600,Personality disorders
+5383,2017-08-08,01:47,2017-11-01,17:40,General Surgery,F,56,F600,
+5712,1999-09-04,08:23,2000-02-14,06:10,General Surgery,M,58,B2683,Nephritis; nephrosis; renal sclerosis
+5815,1986-09-16,04:00,1986-12-07,19:26,General Surgery,F,28,K850,Pancreatic disorders (not diabetes)
+5823,1995-03-30,18:26,1995-07-29,,Obstetrics,M,,D3701,Neoplasms of unspecified nature or uncertain behavior
+6224,1994-06-30,17:00,1994-09-19,16:56,General Surgery,F,54,C73,Cancer of thyroid
+6260,2007-11-20,10:01,2008-03-26,,General Surgery,M,85,G450,Transient cerebral ischemia
+6334,1991-10-29,16:53,1992-02-29,09:45,General Surgery,M,64,L89000,Chronic ulcer of skin
+6367,2001-08-04,20:06,2001-12-27,17:57,General Surgery,F,38,N810,Prolapse of female genital organs
+6429,1992-01-22,09:14,1992-06-07,02:19,Obstetrics,F,52,C770,Secondary malignancies
+6485,2018-02-17,14:08,2018-05-08,03:35,General Surgery,M,52,R502,Adverse effects of medical drugs
+6564,1983-10-31,17:54,1984-03-28,14:39,General Surgery,M,84,R072,Nonspecific chest pain
+6685,1996-12-19,22:32,1997-04-02,08:15,General Surgery,M,82,G43601,Acute cerebrovascular disease
+6770,1995-02-09,13:26,1995-06-12,14:17,General Surgery,F,65,S020XXA,Skull and face fractures
+6935,2006-10-26,16:00,2007-05-01,06:20,General Surgery,F,37,V200XXA,External cause codes:  Transport; not MVT
+6988,2008-02-13,10:15,2008-02-28,15:45,General Surgery,F,65,O030,
+7055,1989-04-06,16:34,1989-05-05,,Obstetrics,M,60,O700,OB-related trauma to perineum and vulva
+7107,2019-04-25,03:54,2019-08-13,18:51,General Surgery,F,37,N200,Calculus of urinary tract
+7111,1997-07-24,17:17,1997-09-13,12:19,Obstetrics,F,76,C670,Cancer of bladder
+7343,2003-06-23,17:14,2003-10-14,,Obstetrics,F,57,C3400,Cancer of bronchus; lung
+7424,1980-09-11,18:30,1981-02-23,08:29,Obstetrics,M,74,R502,Adverse effects of medical drugs
+7439,2017-12-15,07:08,2018-06-11,,General Surgery,F,,Y36460A,External cause codes:  Suffocation
+7522,1988-10-18,03:49,1989-04-18,09:10,General Surgery,F,19,O080,Postabortion complications
+7567,1982-04-07,07:30,1982-09-07,04:21,General Surgery,M,92,I470,Cardiac dysrhythmias
+7613,2003-10-02,14:31,2003-11-09,18:06,General Surgery,F,68,C61,
+7684,1992-04-21,06:42,1992-10-03,,General Surgery,F,38,C641,Cancer of kidney and renal pelvis
+7957,1986-02-11,23:05,1986-05-11,07:46,General Surgery,M,47,K5000,Regional enteritis and ulcerative colitis
+7960,1989-05-19,08:52,1989-11-06,06:33,General Surgery,F,58,R570,Shock
+8014,2014-08-10,05:59,2014-12-21,03:03,General Surgery,M,16,C459,Malignant neoplasm without specification of site
+8285,2007-03-26,16:16,2007-07-05,03:30,Obstetrics,F,88,A0101,Meningitis (except that caused by tuberculosis or sexually transmitted disease)
+8293,2007-11-06,12:26,2008-05-13,12:00,General Surgery,F,33,R570,Shock
+8306,1984-12-23,09:24,1985-04-10,11:56,Obstetrics,M,85,G041,Paralysis
+8522,2013-11-17,17:32,2014-03-05,17:10,General Surgery,M,34,B350,Mycoses
+8561,1988-12-16,15:10,1989-04-04,10:01,General Surgery,F,98,Z30011,Contraceptive and procreative management
+8782,1998-03-30,03:19,1998-06-24,08:39,General Surgery,M,27,E860,Fluid and electrolyte disorders
+8837,2002-08-26,22:37,2002-11-24,09:09,General Surgery,F,92,Q5001,Genitourinary congenital anomalies
+8948,1981-07-19,06:23,1981-07-23,02:05,General Surgery,F,75,K560,Intestinal obstruction without hernia
+8990,1982-11-08,20:05,1983-03-15,21:54,Obstetrics,M,28,B150,Hepatitis
+9057,1986-09-14,07:44,1986-12-29,15:25,General Surgery,M,,F064,Anxiety disorders
+9074,2003-02-18,06:59,2003-08-16,06:49,Obstetrics,F,33,K5700,Diverticulosis and diverticulitis
+9256,1992-07-15,16:57,1992-11-25,22:13,General Surgery,F,41,R072,Nonspecific chest pain
+9405,2018-03-19,22:03,2018-07-26,17:09,General Surgery,F,98,M2010,Acquired foot deformities
+9443,1988-06-15,11:50,1988-06-20,18:52,General Surgery,M,22,E0800,Diabetes mellitus with complications
+9599,2013-11-16,10:57,2014-03-30,19:18,Obstetrics,M,,D6481,Complications of surgical procedures or medical care
+9733,2006-07-24,17:51,2007-01-05,18:20,General Surgery,F,,D89810,Complication of device; implant or graft
+9918,1981-01-12,15:11,1981-06-28,08:09,Obstetrics,F,97,C641,Cancer of kidney and renal pelvis
+10049,1998-03-19,21:26,1998-08-14,,Obstetrics,M,33,E28310,Menopausal disorders
+10127,2003-12-08,15:40,2003-12-24,11:25,General Surgery,F,,N7001,Inflammatory diseases of female pelvic organs
+10313,1999-11-18,07:36,2000-02-25,06:08,General Surgery,M,66,G35,
+10567,2009-02-15,18:01,2009-04-26,07:38,General Surgery,M,,S0100XA,Open wounds of head; neck; and trunk
+10599,1986-11-23,05:51,1987-04-08,23:34,General Surgery,M,62,C000,Cancer of head and neck
+10605,1989-12-22,02:46,1990-06-02,19:20,Obstetrics,M,19,O3421,
+10628,2005-03-04,08:40,2005-06-11,10:42,General Surgery,F,85,N7001,Inflammatory diseases of female pelvic organs
+10718,2013-01-20,04:53,2013-05-03,16:39,Obstetrics,F,58,N830,Ovarian cyst
+10822,2005-06-21,15:36,2005-07-08,03:07,General Surgery,F,22,F064,Anxiety disorders
+10948,1986-05-22,10:03,1986-09-12,19:26,General Surgery,F,60,I6501,
+11060,2008-11-21,07:05,2008-12-03,18:17,Obstetrics,M,74,N200,Calculus of urinary tract
+11066,2009-02-02,19:11,2009-03-04,13:00,General Surgery,F,44,F1110,Substance-related disorders
+11237,2010-08-19,22:29,2011-01-31,03:01,General Surgery,F,37,F1010,Alcohol-related disorders
+11262,1990-09-30,04:34,1990-10-04,17:45,General Surgery,F,94,M1250,Joint disorders and dislocations; trauma-related
+11328,2018-01-31,22:56,2018-08-07,17:38,Obstetrics,M,27,C430,
+11343,1987-03-20,23:27,1987-03-28,12:35,Obstetrics,F,59,N897,Menstrual disorders
+11361,1989-06-18,18:51,1989-09-28,23:52,General Surgery,M,28,G901,Nervous system congenital anomalies
+11373,2001-10-15,22:18,2002-02-02,14:15,General Surgery,M,20,W240XXA,External cause codes:  Machinery
+11390,1998-04-28,02:38,1998-10-15,07:27,General Surgery,F,85,N410,Inflammatory conditions of male genital organs
+11518,1990-01-24,23:52,1990-05-20,22:41,General Surgery,F,27,A5001,Sexually transmitted infections (not HIV or hepatitis)
+11529,1989-04-20,07:29,1989-08-26,,General Surgery,M,78,R072,Nonspecific chest pain
+11597,1995-04-02,02:33,1995-06-15,04:02,Obstetrics,M,74,K2900,Gastritis and duodenitis
+11782,2020-01-22,02:06,2020-03-27,12:24,General Surgery,F,29,C50011,Cancer of breast
+11927,1980-11-16,13:06,1981-04-10,12:20,General Surgery,M,38,C180,Cancer of colon
+12082,1985-04-09,02:56,1985-07-11,10:54,General Surgery,F,54,F4320,Adjustment disorders
+12245,1993-08-31,01:56,1994-02-12,23:49,Obstetrics,M,20,Q5001,Genitourinary congenital anomalies
+12291,2008-11-08,13:34,2009-02-27,21:22,General Surgery,M,21,K5000,Regional enteritis and ulcerative colitis
+12317,2010-09-07,08:35,2011-03-09,,Obstetrics,F,92,N970,Female infertility
+12389,1997-03-17,01:56,1997-09-18,,Obstetrics,F,90,K4000,Abdominal hernia
+12396,2010-05-17,23:48,2010-11-08,09:31,General Surgery,F,71,G931,Coma; stupor; and brain damage
+12427,1985-07-18,05:29,1985-10-21,14:15,General Surgery,M,75,A0103,Pneumonia (except that caused by tuberculosis or sexually transmitted disease)
+12609,2020-02-09,12:17,2020-08-04,21:49,General Surgery,F,37,R570,Shock
+12822,1992-04-04,11:34,1992-10-01,13:09,General Surgery,F,17,I6900,Late effects of cerebrovascular disease
+12876,1998-04-22,03:59,1998-09-03,02:05,General Surgery,F,84,C50011,Cancer of breast
+12965,1992-10-24,19:14,1992-10-30,17:56,Obstetrics,F,,A211,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+13280,2006-03-29,01:32,2006-06-06,03:02,General Surgery,M,64,O665,Forceps delivery
+13288,1994-11-10,13:42,1995-01-25,10:38,Obstetrics,M,40,F600,Personality disorders
+13332,2004-05-05,05:01,2004-09-04,17:23,General Surgery,F,41,E0800,Diabetes mellitus with complications
+13586,2011-11-23,08:21,2012-03-21,15:56,General Surgery,F,38,C61,Cancer of prostate
+13643,1998-03-18,16:07,1998-06-09,19:46,General Surgery,F,71,J60,Lung disease due to external agents
+13781,1983-02-25,15:48,1983-07-02,02:48,Obstetrics,F,18,A021,Septicemia (except in labor)
+13788,1992-10-12,18:38,1993-01-06,20:59,General Surgery,F,80,C470,Cancer of brain and nervous system
+13828,1990-05-29,13:05,1990-10-18,07:17,General Surgery,F,32,W320XXA,External cause codes:  Firearm
+14058,2017-02-08,18:56,2017-03-06,,General Surgery,F,27,E840,Cystic fibrosis
+14131,1992-04-17,03:02,1992-05-14,13:20,General Surgery,M,100,M0500,
+14162,1999-05-25,21:43,1999-09-04,03:54,General Surgery,M,35,O080,Postabortion complications
+14514,2007-07-06,19:17,2007-07-15,22:22,Obstetrics,F,82,N7001,
+14521,2009-07-06,09:43,2009-10-05,12:24,General Surgery,M,93,F642,Disorders usually diagnosed in infancy childhood or adolescence
+14531,1990-06-08,19:34,1990-11-14,23:37,General Surgery,M,54,A021,Septicemia (except in labor)
+14576,1996-12-29,14:37,1997-02-10,11:54,General Surgery,F,54,P220,Respiratory distress syndrome
+14643,1988-03-18,13:33,1988-07-24,22:53,Obstetrics,F,90,Y35201A,External cause codes:  Poisoning
+14688,1986-03-27,21:31,1986-07-23,20:50,General Surgery,F,65,A150,Tuberculosis
+14744,1996-12-12,17:12,1997-05-01,01:38,General Surgery,M,59,M150,Osteoarthritis
+14786,2015-09-16,11:04,2015-12-25,19:24,General Surgery,F,63,S020XXA,Skull and face fractures
+14863,1997-06-17,20:39,1997-12-12,16:48,General Surgery,F,84,C73,Cancer of thyroid
+14929,2011-01-17,04:57,2011-02-21,17:10,Obstetrics,M,45,T510X1A,Poisoning by nonmedicinal substances
+15261,1982-10-31,11:35,1983-02-21,06:09,Obstetrics,F,98,I2101,Acute myocardial infarction
+15312,1981-08-22,12:23,1982-02-17,09:53,General Surgery,F,67,C9000,Multiple myeloma
+15342,2011-02-22,01:39,2011-05-02,20:12,General Surgery,F,19,P293,Cardiac and circulatory congenital anomalies
+15375,1993-10-14,18:11,1993-12-14,13:40,General Surgery,F,16,N410,Inflammatory conditions of male genital organs
+15495,1980-10-26,20:47,1981-02-16,15:36,General Surgery,M,29,V100XXA,External cause codes:  Pedal cyclist; not MVT
+15549,1984-12-15,18:49,1985-04-01,13:24,General Surgery,M,43,C61,Cancer of prostate
+15906,2001-06-12,10:36,2001-06-21,04:21,General Surgery,F,58,R100,Abdominal pain
+16063,1998-06-18,22:33,1998-08-22,15:04,General Surgery,M,25,M0500,Rheumatoid arthritis and related disease
+16079,1989-12-04,19:04,1989-12-31,07:30,General Surgery,M,86,K560,Intestinal obstruction without hernia
+16221,1993-01-31,13:44,1993-04-03,18:30,Obstetrics,M,91,S0100XA,Open wounds of head; neck; and trunk
+16318,2018-12-15,02:48,2019-02-11,06:33,General Surgery,F,32,I2601,Pulmonary heart disease
+16420,1983-10-18,12:08,1984-02-11,11:55,General Surgery,M,52,A7481,Peritonitis and intestinal abscess
+16465,1988-02-26,01:55,1988-07-27,08:40,General Surgery,F,17,G20,Parkinson`s disease
+16684,2011-08-31,06:23,2011-11-01,03:41,General Surgery,F,92,C470,Cancer of brain and nervous system
+16716,1989-10-10,20:31,1989-11-06,17:16,General Surgery,F,70,Z0000,Medical examination/evaluation
+16853,2001-04-15,22:54,2001-05-11,,General Surgery,F,85,I462,Cardiac arrest and ventricular fibrillation
+16870,2017-02-17,15:34,2017-08-16,12:33,General Surgery,F,90,W25XXXA,External cause codes:  Cut/pierce
+16970,2012-02-10,19:08,2012-02-24,18:16,General Surgery,M,82,G450,Transient cerebral ischemia
+17056,2004-02-14,21:29,2004-06-19,05:24,General Surgery,M,47,P220,Respiratory distress syndrome
+17085,2011-12-08,08:45,2012-06-16,,General Surgery,M,89,O30021,Fetopelvic disproportion; obstruction
+17143,1997-03-19,08:02,1997-04-09,06:48,General Surgery,M,83,G931,Coma; stupor; and brain damage
+17223,2011-11-14,13:13,2011-12-29,22:54,Obstetrics,F,94,E28310,Menopausal disorders
+17254,2006-03-25,09:37,2006-07-04,09:44,General Surgery,F,36,F1010,Alcohol-related disorders
+17311,2007-11-08,18:23,2008-01-16,,General Surgery,M,88,O665,Forceps delivery
+17472,2019-03-11,23:44,2019-04-16,22:35,General Surgery,M,64,D65,Coagulation and hemorrhagic disorders
+17654,1986-02-05,13:45,1986-07-19,22:13,General Surgery,M,98,D65,Coagulation and hemorrhagic disorders
+17873,2012-11-05,10:33,2013-02-19,03:46,Obstetrics,M,32,C470,Cancer of brain and nervous system
+17951,2018-05-03,12:51,2018-09-01,01:46,Obstetrics,F,58,N897,Menstrual disorders
+17989,1985-07-24,11:12,1985-08-06,11:30,Obstetrics,M,35,N139,Genitourinary symptoms and ill-defined conditions
+18116,1986-08-09,06:54,1986-11-28,08:22,General Surgery,F,77,J80,Respiratory failure; insufficiency; arrest (adult)
+18124,1989-04-25,12:40,1989-05-01,19:32,General Surgery,F,44,N6001,Nonmalignant breast conditions
+18208,2012-12-11,07:16,2013-01-26,,General Surgery,F,,C561,Cancer of ovary
+18312,1980-11-22,03:33,1981-05-28,03:25,Obstetrics,F,40,Q380,Digestive congenital anomalies
+18469,1992-05-02,21:59,1992-05-08,19:23,General Surgery,F,94,N400,Hyperplasia of prostate
+18581,2006-02-06,12:55,2006-06-03,05:11,General Surgery,M,71,K5700,Diverticulosis and diverticulitis
+18613,1995-12-17,09:21,1996-03-16,,General Surgery,M,73,C180,Cancer of colon
+18701,2005-05-01,23:30,2005-09-06,16:59,General Surgery,F,66,V200XXA,External cause codes:  Transport; not MVT
+18712,1997-11-20,10:53,1998-05-08,11:53,General Surgery,M,98,G041,Paralysis
+18791,1993-11-15,13:41,1994-03-21,01:18,General Surgery,F,22,C180,Cancer of colon
+18853,2004-10-25,08:43,2005-01-26,08:39,General Surgery,F,25,J200,Acute bronchitis
+18937,2008-04-19,22:28,2008-05-17,17:08,General Surgery,F,16,K594,Anal and rectal conditions
+19121,1996-06-03,23:19,1996-08-17,05:24,Obstetrics,M,71,T2000XA,Burns
+19153,1998-12-12,15:22,1999-01-14,,General Surgery,M,49,M84350K,Fracture of neck of femur (hip)
+19325,2006-12-17,10:38,2007-06-17,03:09,General Surgery,M,42,I70261,Gangrene
+19339,1982-07-21,09:07,1982-10-15,12:07,Obstetrics,M,25,O4700,Early or threatened labor
+19360,1992-07-05,18:59,1992-12-12,16:34,General Surgery,F,44,A0101,Meningitis (except that caused by tuberculosis or sexually transmitted disease)
+19361,1983-06-25,09:48,1983-09-26,03:22,General Surgery,M,20,J860,Pleurisy; pneumothorax; pulmonary collapse
+19448,2009-03-19,16:25,2009-06-09,,General Surgery,M,23,F064,Anxiety disorders
+19688,2019-09-06,09:58,2020-03-09,04:54,Obstetrics,F,61,C250,Cancer of pancreas
+19761,2000-08-15,08:10,2000-09-24,,Obstetrics,F,15,C4000,Cancer of bone and connective tissue
+19810,2006-03-07,15:22,2006-04-01,18:18,General Surgery,F,53,K000,Disorders of teeth and jaw
+19939,2005-01-17,08:22,2005-03-15,,General Surgery,M,67,G43601,Acute cerebrovascular disease
+19962,2008-09-25,17:05,2008-10-18,21:50,General Surgery,F,32,W420XXA,
+20088,1989-06-01,06:16,1989-10-13,03:22,General Surgery,M,,G35,Multiple sclerosis
+20158,2020-01-21,16:03,2020-02-11,,Obstetrics,M,52,N830,Ovarian cyst
+20240,2000-05-25,08:49,2000-08-14,19:51,General Surgery,F,45,B150,Hepatitis
+20260,1996-11-11,23:50,1997-02-03,09:33,General Surgery,F,58,G20,
+20354,2004-10-01,21:23,2005-01-27,20:03,General Surgery,M,,I700,
+20558,1997-07-18,04:26,1997-12-09,10:26,Obstetrics,M,46,V0210XA,
+20583,1999-10-20,15:48,2000-02-02,03:10,General Surgery,F,81,H8101,Conditions associated with dizziness or vertigo
+20662,2007-06-14,19:34,2007-08-06,13:40,Obstetrics,F,92,J690,Aspiration pneumonitis; food/vomitus
+20677,1991-07-23,09:58,1991-10-29,,Obstetrics,F,83,F600,
+20738,2013-01-23,23:44,2013-06-23,07:26,General Surgery,F,64,G931,Coma; stupor; and brain damage
+20805,2001-03-11,08:12,2001-03-19,12:19,General Surgery,F,64,H25011,Cataract
+20811,1985-02-05,15:25,1985-03-14,21:20,General Surgery,F,70,R110,Nausea and vomiting
+20857,1980-08-26,14:44,1980-12-24,,General Surgery,M,59,C61,Cancer of prostate
+20858,2018-07-06,01:00,2018-11-30,13:38,General Surgery,M,41,K523,Noninfectious gastroenteritis
+20930,2005-11-01,04:57,2006-05-15,11:05,General Surgery,M,70,K8000,Biliary tract disease
+21082,1995-09-28,20:12,1996-01-08,17:03,Obstetrics,M,38,S070XXA,Crushing injury or internal injury
+21198,2002-12-23,15:40,2003-06-13,17:45,General Surgery,F,77,V00111A,External cause codes:  Fall
+21267,1983-08-18,18:10,1983-11-13,20:07,General Surgery,M,79,R760,Immunizations and screening for infectious disease
+21353,1999-04-24,08:36,1999-05-03,13:30,General Surgery,M,26,N181,Chronic kidney disease
+21416,1989-03-20,02:12,1989-04-07,01:32,General Surgery,F,31,G20,Parkinson`s disease
+21458,2011-07-31,11:53,2011-10-31,07:23,Obstetrics,M,26,F061,Miscellaneous mental health disorders
+21562,1999-12-05,14:00,2000-03-07,14:35,General Surgery,M,,P550,Hemolytic jaundice and perinatal jaundice
+21899,2001-08-22,11:48,2001-09-02,04:37,General Surgery,M,33,K523,Noninfectious gastroenteritis
+22024,1982-08-11,01:01,1983-01-31,02:59,General Surgery,F,40,C6200,Cancer of testis
+22262,1988-09-16,11:09,1988-11-10,05:13,General Surgery,M,,N830,
+22277,1981-11-26,22:37,1982-03-24,17:38,Obstetrics,F,68,I440,Conduction disorders
+22335,1992-07-29,01:34,1992-11-24,09:06,General Surgery,F,94,Z3800,Liveborn
+22372,2006-05-13,10:29,2006-11-27,19:47,General Surgery,M,68,D62,Acute posthemorrhagic anemia
+22390,1987-07-31,16:00,1987-11-26,11:18,General Surgery,M,58,Y35201A,External cause codes:  Poisoning
+22414,1991-10-24,05:57,1991-12-03,05:03,General Surgery,M,48,P220,Respiratory distress syndrome
+22426,2011-10-31,09:42,2012-04-14,04:29,General Surgery,M,48,C430,Melanomas of skin
+22474,2003-03-22,09:22,2003-09-16,23:18,General Surgery,M,30,E780,Disorders of lipid metabolism
+22523,2004-05-11,08:59,2004-11-14,17:48,General Surgery,M,94,C670,Cancer of bladder
+22673,1999-04-19,08:36,1999-07-23,04:00,General Surgery,F,22,A6000,Viral infection
+22768,1995-01-21,12:57,1995-04-16,18:56,General Surgery,F,88,C73,Cancer of thyroid
+22872,1986-05-10,03:10,1986-10-03,06:50,General Surgery,F,39,O700,OB-related trauma to perineum and vulva
+22885,1996-10-26,09:51,1997-01-15,06:33,Obstetrics,M,89,Z44001,Rehabilitation care; fitting of prostheses; and adjustment of devices
+22897,1983-07-15,11:24,1983-10-17,,Obstetrics,F,88,I470,
+22947,2016-04-03,02:05,2016-07-10,20:26,Obstetrics,F,48,D89810,Complication of device; implant or graft
+23187,2011-09-09,14:05,2011-12-10,19:54,General Surgery,F,54,O3421,Previous C-section
+23380,2020-06-27,21:24,2020-07-23,16:23,General Surgery,M,75,G901,Nervous system congenital anomalies
+23412,1985-04-19,17:05,1985-06-27,11:24,General Surgery,M,93,D800,Immunity disorders
+23511,2010-04-20,09:04,2010-11-02,,General Surgery,M,99,K640,Hemorrhoids
+23522,2002-09-07,16:12,2003-03-14,18:01,Obstetrics,F,53,I70261,Gangrene
+23631,2012-02-16,22:03,2012-09-01,05:55,General Surgery,F,39,J860,
+23675,2005-04-29,11:44,2005-08-25,18:33,General Surgery,F,77,H40001,Glaucoma
+23738,1996-08-22,21:54,1996-11-04,03:49,Obstetrics,M,53,N410,Inflammatory conditions of male genital organs
+23741,1987-08-08,04:29,1988-01-30,10:06,Obstetrics,M,43,R760,Immunizations and screening for infectious disease
+23749,1996-10-22,06:30,1996-11-23,03:12,Obstetrics,F,65,M300,Systemic lupus erythematosus and connective tissue disorders
+23886,2000-11-21,06:18,2001-06-06,13:59,General Surgery,M,52,A5001,Sexually transmitted infections (not HIV or hepatitis)
+24065,2019-04-03,13:49,2019-07-11,16:24,General Surgery,M,20,Y09,External cause codes:  Unspecified
+24073,1998-04-04,23:58,1998-10-21,12:17,General Surgery,F,38,C153,Cancer of esophagus
+24080,1981-03-08,13:18,1981-07-10,13:06,General Surgery,F,42,N7001,Inflammatory diseases of female pelvic organs
+24318,1984-07-05,17:46,1985-01-08,17:21,General Surgery,M,96,I110,Hypertension with complications and secondary hypertension
+24617,1985-09-21,06:26,1985-11-26,03:42,General Surgery,M,31,E840,Cystic fibrosis
+24642,2002-08-14,06:56,2002-11-11,19:02,Obstetrics,M,36,R55,Syncope
+24678,1982-01-24,20:18,1982-02-26,11:44,Obstetrics,F,39,C470,Cancer of brain and nervous system
+24747,2015-01-02,09:24,2015-05-05,09:19,General Surgery,F,56,R570,Shock
+24758,1996-01-09,11:08,1996-04-26,,General Surgery,M,85,G931,Coma; stupor; and brain damage
+24845,1983-04-03,04:52,1983-06-18,,Obstetrics,F,85,F0630,Mood disorders
+25039,1980-12-29,21:55,1981-01-31,04:33,General Surgery,M,91,Y35201A,External cause codes:  Poisoning
+25103,2008-02-15,12:40,2008-07-18,14:59,Obstetrics,F,72,E860,Fluid and electrolyte disorders
+25192,2020-06-04,17:56,2020-08-26,08:24,General Surgery,F,99,A3212,
+25207,2005-07-14,16:02,2005-12-20,04:32,General Surgery,M,17,I0981,Congestive heart failure; nonhypertensive
+25254,1986-01-05,12:15,1986-01-19,04:20,General Surgery,F,30,E860,Fluid and electrolyte disorders
+25290,1992-12-08,19:08,1993-06-08,03:49,General Surgery,M,87,E089,Diabetes mellitus without complication
+25313,2013-08-24,04:02,2014-01-17,10:39,Obstetrics,M,16,A3681,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease)
+25444,2013-10-22,01:34,2013-12-09,05:50,General Surgery,M,46,G35,Multiple sclerosis
+25621,2013-05-31,08:59,2013-11-27,07:42,General Surgery,M,66,M810,Osteoporosis
+25663,1995-05-22,13:09,1995-06-23,01:29,General Surgery,M,17,N139,Genitourinary symptoms and ill-defined conditions
+25692,1988-09-23,06:37,1988-09-30,10:57,General Surgery,M,34,S031XXA,Sprains and strains
+25746,1998-01-13,01:05,1998-01-22,18:03,General Surgery,F,27,F064,Anxiety disorders
+25816,2018-10-30,19:24,2019-04-28,17:44,General Surgery,M,40,Y35201A,External cause codes:  Poisoning
+26101,1985-05-15,06:05,1985-09-01,22:16,Obstetrics,M,38,R760,Immunizations and screening for infectious disease
+26395,2012-12-15,03:40,2013-05-10,01:51,Obstetrics,F,50,I110,Hypertension with complications and secondary hypertension
+26435,1998-01-24,17:18,1998-04-01,04:49,General Surgery,M,28,C4000,
+26498,2004-06-09,21:14,2004-10-09,10:56,General Surgery,M,87,C50011,Cancer of breast
+26564,1984-10-10,11:31,1985-04-20,17:31,General Surgery,F,71,F061,Miscellaneous mental health disorders
+26614,2020-02-01,16:24,2020-02-18,21:54,General Surgery,F,65,Y09,External cause codes:  Unspecified
+26706,1983-04-02,05:01,1983-07-23,01:17,Obstetrics,F,26,A3212,Encephalitis (except that caused by tuberculosis or sexually transmitted disease)
+26733,1999-05-08,03:16,1999-06-14,18:45,General Surgery,M,28,Y35201A,
+26757,1991-06-04,04:20,1991-11-07,02:34,Obstetrics,M,36,R55,Syncope
+26828,1982-03-14,05:34,1982-06-28,19:05,Obstetrics,M,51,A7481,Peritonitis and intestinal abscess
+26871,1984-01-31,10:47,1984-06-28,16:04,General Surgery,F,18,G9611,Spinal cord injury
+26973,1998-06-20,21:30,1998-09-13,,General Surgery,M,90,A0101,Meningitis (except that caused by tuberculosis or sexually transmitted disease)
+27039,1985-06-24,22:50,1985-11-29,,General Surgery,F,18,A3681,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease)
+27070,1985-12-25,18:12,1986-05-07,04:07,General Surgery,F,95,W320XXA,External cause codes:  Firearm
+27162,1994-01-26,22:17,1994-03-02,20:31,General Surgery,M,44,F630,Impulse control disorders NEC
+27221,1992-08-09,22:55,1992-11-27,11:38,General Surgery,F,65,E860,Fluid and electrolyte disorders
+27255,1985-08-20,20:09,1985-11-05,13:29,Obstetrics,M,63,N170,Acute and unspecified renal failure
+27474,2009-08-20,05:21,2010-01-31,22:15,Obstetrics,F,78,C6200,Cancer of testis
+27615,2012-08-29,19:14,2013-01-15,17:17,General Surgery,M,57,C19,Cancer of rectum and anus
+27642,1998-01-22,08:05,1998-05-02,08:27,Obstetrics,M,37,D65,Coagulation and hemorrhagic disorders
+27728,2003-06-18,21:18,2003-08-03,19:05,General Surgery,F,83,Y620,
+27872,1990-10-05,19:22,1991-01-18,19:35,General Surgery,M,16,I2601,Pulmonary heart disease
+27916,2000-03-23,11:35,2000-06-20,18:21,General Surgery,F,73,S020XXA,Skull and face fractures
+27966,2000-03-15,16:38,2000-07-06,16:06,General Surgery,F,31,A211,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+27982,2005-11-19,18:48,2006-03-03,09:19,General Surgery,M,65,G4700,Residual codes; unclassified
+28010,2005-11-12,02:19,2006-03-24,08:25,General Surgery,F,65,S031XXA,Sprains and strains
+28081,2004-01-16,13:51,2004-05-30,18:23,Obstetrics,F,87,J80,Respiratory failure; insufficiency; arrest (adult)
+28105,2002-11-28,06:30,2002-12-10,20:53,Obstetrics,F,55,F600,Personality disorders
+28126,2011-08-16,22:34,2011-12-06,19:29,General Surgery,M,73,O665,Forceps delivery
+28135,1984-04-26,07:40,1984-09-06,18:30,General Surgery,M,91,N7001,Inflammatory diseases of female pelvic organs
+28232,1995-03-23,07:37,1995-05-15,06:23,General Surgery,F,21,V100XXA,External cause codes:  Pedal cyclist; not MVT
+28248,2016-01-28,22:56,2016-07-06,21:18,General Surgery,M,23,B5731,Esophageal disorders
+28270,1986-11-08,06:59,1987-04-06,20:57,General Surgery,M,85,Z44001,Rehabilitation care; fitting of prostheses; and adjustment of devices
+28386,2018-08-24,21:21,2018-10-03,20:48,General Surgery,M,82,I8000,Phlebitis; thrombophlebitis and thromboembolism
+28456,1990-05-03,02:51,1990-11-01,08:25,Obstetrics,M,50,D250,Benign neoplasm of uterus
+28542,1991-08-24,09:38,1991-09-03,,General Surgery,M,99,C459,Malignant neoplasm without specification of site
+28545,1993-02-08,22:34,1993-02-25,23:56,Obstetrics,F,66,C73,Cancer of thyroid
+28584,1986-10-10,22:17,1986-11-24,06:04,Obstetrics,M,73,J860,Pleurisy; pneumothorax; pulmonary collapse
+28711,1980-02-14,01:19,1980-02-19,03:02,General Surgery,M,18,D89810,Complication of device; implant or graft
+28803,2009-03-22,12:40,2009-10-05,08:09,Obstetrics,F,98,O700,
+28838,2013-04-28,17:54,2013-09-21,10:11,General Surgery,M,85,I470,Cardiac dysrhythmias
+28945,2000-01-01,09:57,2000-04-15,08:31,General Surgery,M,25,R072,Nonspecific chest pain
+29048,2020-03-31,21:33,2020-05-07,01:07,General Surgery,M,15,T510X1A,Poisoning by nonmedicinal substances
+29076,2008-02-25,11:11,2008-09-08,10:26,General Surgery,M,36,M84361A,Fracture of lower limb
+29084,2004-04-24,17:52,2004-07-10,17:52,General Surgery,M,70,J09X1,Influenza
+29108,2017-12-19,19:54,2018-05-02,18:24,General Surgery,M,22,D62,
+29219,1981-08-18,17:29,1982-02-12,16:33,Obstetrics,M,91,A3685,Urinary tract infections
+29245,2006-04-28,02:47,2006-08-22,13:26,General Surgery,M,75,M810,Osteoporosis
+29339,1993-06-06,05:26,1993-10-25,22:48,General Surgery,M,,M150,Osteoarthritis
+29349,1984-10-16,21:30,1985-02-16,18:18,Obstetrics,M,64,N181,Chronic kidney disease
+29387,2017-04-12,03:21,2017-10-14,14:05,General Surgery,F,78,N200,Calculus of urinary tract
+29786,2014-10-04,20:07,2014-11-28,03:08,General Surgery,F,22,Y620,
+29808,2009-08-05,09:47,2009-08-30,14:16,Obstetrics,M,78,F642,Disorders usually diagnosed in infancy childhood or adolescence
+29882,2015-02-13,17:31,2015-03-18,15:25,Obstetrics,M,36,R570,Shock
+29977,2007-08-28,13:02,2007-10-04,01:15,Obstetrics,F,41,R780,
+30082,1987-08-10,14:45,1988-01-29,11:45,Obstetrics,M,,W25XXXA,External cause codes:  Cut/pierce
+30151,2020-05-23,14:20,2020-11-22,17:55,General Surgery,M,19,C670,Cancer of bladder
+30166,2004-10-03,16:13,2005-01-14,06:40,General Surgery,M,87,N181,Chronic kidney disease
+30206,1996-02-01,05:21,1996-06-28,,General Surgery,M,18,B053,Otitis media and related conditions
+30281,2000-05-15,01:08,2000-11-24,,General Surgery,F,66,R760,Immunizations and screening for infectious disease
+30303,2016-07-03,19:36,2016-10-27,04:02,Obstetrics,F,32,C3400,Cancer of bronchus; lung
+30366,1990-11-24,22:34,1990-12-21,03:19,General Surgery,F,26,A6000,
+30388,1995-06-11,18:07,1995-07-27,02:32,General Surgery,F,22,H8101,
+30447,2015-12-08,19:18,2016-02-28,23:50,Obstetrics,F,97,C160,
+30683,1992-07-11,03:15,1992-09-17,10:20,General Surgery,M,93,A021,Septicemia (except in labor)
+30823,1987-12-11,20:48,1988-03-23,18:03,General Surgery,M,,J80,Respiratory failure; insufficiency; arrest (adult)
+30835,1983-01-26,02:14,1983-04-20,17:12,General Surgery,F,33,A0101,Meningitis (except that caused by tuberculosis or sexually transmitted disease)
+30950,2014-01-13,16:28,2014-03-13,09:08,Obstetrics,M,68,H5200,Blindness and vision defects
+31013,2019-01-09,09:19,2019-02-15,06:01,Obstetrics,M,70,K640,Hemorrhoids
+31134,2018-12-18,14:54,2019-02-01,13:45,General Surgery,F,38,O320XX0,Malposition; malpresentation
+31157,2011-09-08,21:27,2012-01-28,14:18,General Surgery,F,68,H5200,Blindness and vision defects
+31351,1980-06-08,22:44,1980-06-15,04:30,General Surgery,M,68,H25011,
+31447,1983-12-23,13:29,1984-01-18,,General Surgery,M,90,I050,Heart valve disorders
+31503,2016-03-23,10:33,2016-06-09,09:00,General Surgery,F,64,I880,Lymphadenitis
+31539,1990-06-02,11:58,1990-07-26,22:26,General Surgery,F,22,B20,HIV infection
+31602,2017-05-22,04:48,2017-06-14,15:30,Obstetrics,M,90,M150,Osteoarthritis
+31646,2012-12-16,19:12,2013-04-21,08:47,Obstetrics,M,56,N6001,Nonmalignant breast conditions
+31687,2013-06-13,04:09,2013-07-27,14:45,General Surgery,F,32,S0000XA,Superficial injury; contusion
+31820,1992-02-15,08:51,1992-07-21,14:45,General Surgery,F,83,C561,Cancer of ovary
+31977,1987-09-07,13:46,1987-11-24,,General Surgery,M,64,F1010,Alcohol-related disorders
+32077,1997-03-12,19:51,1997-05-14,13:28,General Surgery,M,69,M810,Osteoporosis
+32126,1989-02-11,21:25,1989-08-11,04:20,General Surgery,M,30,M300,Systemic lupus erythematosus and connective tissue disorders
+32190,1992-03-03,03:52,1992-03-30,21:40,General Surgery,M,41,I110,
+32211,2006-12-15,21:14,2007-06-15,03:38,General Surgery,M,95,R55,Syncope
+32224,1987-04-12,19:49,1987-07-10,05:49,General Surgery,M,50,K8000,Biliary tract disease
+32285,2017-10-18,16:12,2018-04-04,21:00,General Surgery,F,37,Y620,Adverse effects of medical care
+32318,2002-09-26,15:57,2002-10-25,09:27,General Surgery,F,46,A0102,Bacterial infection; unspecified site
+32398,2000-03-26,20:22,2000-10-02,07:57,General Surgery,M,41,I880,Lymphadenitis
+32535,2000-10-28,04:46,2001-03-13,,General Surgery,M,17,D3701,Neoplasms of unspecified nature or uncertain behavior
+32580,1990-09-11,02:43,1991-01-21,23:37,Obstetrics,M,53,I2601,
+32656,1985-07-04,23:04,1985-09-03,03:09,Obstetrics,F,22,N139,Genitourinary symptoms and ill-defined conditions
+32802,1995-10-14,17:32,1995-11-30,,General Surgery,M,26,F70,Developmental disorders
+32826,1997-08-23,08:55,1997-10-21,23:21,Obstetrics,F,30,N139,Genitourinary symptoms and ill-defined conditions
+32991,1985-08-05,05:19,1985-08-10,21:53,General Surgery,F,32,O3421,Previous C-section
+33124,1998-04-18,03:43,1998-06-02,22:50,Obstetrics,M,,H40001,Glaucoma
+33177,1981-11-21,20:05,1982-03-24,,Obstetrics,M,18,C641,Cancer of kidney and renal pelvis
+33276,1997-08-28,07:30,1998-02-24,19:28,General Surgery,M,58,A0101,Meningitis (except that caused by tuberculosis or sexually transmitted disease)
+33342,2004-09-04,18:36,2004-12-22,14:09,Obstetrics,F,33,I050,Heart valve disorders
+33506,1982-03-18,07:23,1982-08-05,17:15,General Surgery,M,26,Z0000,Medical examination/evaluation
+33523,1998-08-07,08:47,1999-01-13,21:49,General Surgery,F,30,I7401,Aortic and peripheral arterial embolism or thrombosis
+33527,1980-10-04,18:51,1981-02-12,11:47,General Surgery,M,98,Y620,Adverse effects of medical care
+33688,2009-04-06,15:18,2009-04-26,04:38,General Surgery,M,33,G43601,Acute cerebrovascular disease
+33808,2015-08-29,02:54,2015-10-12,19:59,General Surgery,M,99,C160,Cancer of stomach
+33861,2008-11-15,17:46,2009-03-14,,General Surgery,F,38,O045,Induced abortion
+34048,2014-11-08,18:07,2015-02-08,13:42,General Surgery,F,98,D5700,Sickle cell anemia
+34068,2018-05-31,12:34,2018-06-17,21:52,General Surgery,M,97,C160,Cancer of stomach
+34069,1981-01-16,12:24,1981-05-07,09:21,Obstetrics,F,86,W25XXXA,External cause codes:  Cut/pierce
+34070,2020-01-28,03:58,2020-03-18,15:34,Obstetrics,M,70,C000,Cancer of head and neck
+34097,2018-07-29,09:48,2018-10-10,11:37,General Surgery,M,91,K5700,
+34184,2018-04-09,16:11,2018-08-01,18:38,General Surgery,M,92,C250,Cancer of pancreas
+34281,1990-04-16,02:18,1990-07-11,21:53,General Surgery,F,81,D65,Coagulation and hemorrhagic disorders
+34704,1988-08-07,10:09,1988-09-20,16:31,General Surgery,M,41,N170,Acute and unspecified renal failure
+34908,1989-02-10,20:38,1989-03-14,11:22,General Surgery,M,68,I700,Peripheral and visceral atherosclerosis
+34940,2009-08-03,23:46,2009-08-22,07:12,Obstetrics,M,77,K850,Pancreatic disorders (not diabetes)
+35034,1984-09-29,12:27,1985-03-19,19:58,General Surgery,F,81,J200,Acute bronchitis
+35088,1997-07-11,05:48,1998-01-15,11:45,General Surgery,M,51,C000,Cancer of head and neck
+35101,1995-03-02,13:55,1995-08-29,,General Surgery,F,73,J860,Pleurisy; pneumothorax; pulmonary collapse
+35144,2008-11-14,11:08,2009-04-05,03:56,General Surgery,F,,E089,Diabetes mellitus without complication
+35192,1996-07-28,15:54,1996-08-09,18:07,Obstetrics,F,38,D250,Benign neoplasm of uterus
+35240,2010-03-19,21:09,2010-04-28,05:54,Obstetrics,M,16,D89810,Complication of device; implant or graft
+35304,1997-06-30,18:37,1997-10-21,,Obstetrics,F,57,D700,Diseases of white blood cells
+35378,1980-02-28,14:25,1980-05-30,05:40,General Surgery,F,41,N6001,
+35380,2015-03-10,23:49,2015-07-20,19:36,General Surgery,M,64,N830,Ovarian cyst
+35478,2005-08-22,03:25,2005-08-25,12:56,General Surgery,M,48,G40001,Epilepsy; convulsions
+35505,1991-08-06,10:01,1991-12-25,23:27,Obstetrics,M,95,M2010,Acquired foot deformities
+35563,2001-02-13,16:16,2001-08-14,17:14,General Surgery,M,18,C160,Cancer of stomach
+35893,2008-05-15,20:38,2008-09-10,17:53,General Surgery,M,26,C670,Cancer of bladder
+35894,2011-10-23,11:45,2012-01-26,09:51,General Surgery,M,,K850,Pancreatic disorders (not diabetes)
+36235,2019-01-22,07:31,2019-06-30,02:38,General Surgery,M,62,A5001,Sexually transmitted infections (not HIV or hepatitis)
+36251,2004-09-09,20:58,2004-09-19,10:06,General Surgery,F,79,D6481,Complications of surgical procedures or medical care
+36267,2010-05-12,11:06,2010-07-29,20:12,General Surgery,F,59,D250,Benign neoplasm of uterus
+36307,1995-12-04,12:56,1996-06-18,,General Surgery,M,92,G4700,Residual codes; unclassified
+36468,1981-01-31,22:23,1981-04-07,17:44,General Surgery,F,84,F630,Impulse control disorders NEC
+36530,2013-02-24,01:01,2013-03-09,09:16,General Surgery,M,66,A150,Tuberculosis
+36761,2013-12-25,03:18,2014-04-19,08:39,General Surgery,M,92,W25XXXA,External cause codes:  Cut/pierce
+36833,2019-07-12,19:06,2020-01-08,12:37,General Surgery,F,34,B20,HIV infection
+36869,1994-08-24,12:38,1994-09-01,14:51,General Surgery,F,38,W240XXA,External cause codes:  Machinery
+37225,1991-02-14,11:57,1991-08-28,07:04,General Surgery,F,24,J40,Chronic obstructive pulmonary disease and bronchiectasis
+37269,1985-10-10,13:23,1986-01-04,08:06,General Surgery,F,68,Y36460A,External cause codes:  Suffocation
+37379,2002-07-25,16:31,2002-09-23,11:56,General Surgery,F,70,G40001,Epilepsy; convulsions
+37386,2006-02-26,05:48,2006-04-03,16:47,Obstetrics,M,75,Q380,
+37575,2015-06-01,11:28,2015-11-20,01:34,Obstetrics,F,61,V200XXA,External cause codes:  Transport; not MVT
+37750,2018-12-17,01:12,2019-01-12,07:30,General Surgery,M,49,C73,Cancer of thyroid
+37903,1983-04-09,04:00,1983-08-08,14:34,General Surgery,M,50,F1010,Alcohol-related disorders
+37926,2004-10-21,18:29,2004-12-26,19:03,Obstetrics,F,62,C19,Cancer of rectum and anus
+38000,1988-07-31,12:08,1988-10-25,15:25,Obstetrics,F,57,G931,Coma; stupor; and brain damage
+38003,1986-06-06,20:26,1986-11-03,03:30,General Surgery,F,,E28310,Menopausal disorders
+38018,1992-02-17,09:59,1992-03-13,,General Surgery,F,69,N170,Acute and unspecified renal failure
+38063,2016-09-04,10:36,2016-11-17,19:39,General Surgery,M,78,Q5001,Genitourinary congenital anomalies
+38073,2014-06-30,22:36,2014-12-02,18:43,General Surgery,F,72,C540,Cancer of uterus
+38223,2000-03-17,15:37,2000-05-29,17:57,General Surgery,F,65,P293,Cardiac and circulatory congenital anomalies
+38237,1995-02-27,09:47,1995-09-15,06:09,Obstetrics,F,16,A3685,Urinary tract infections
+38300,1996-03-03,11:17,1996-05-31,15:10,Obstetrics,M,18,M2010,Acquired foot deformities
+38410,2000-10-21,01:22,2000-12-04,20:20,General Surgery,M,24,I2601,Pulmonary heart disease
+38427,2016-05-27,18:00,2016-07-15,18:21,General Surgery,M,94,Y92000,External cause codes:  Place of occurrence
+38451,1985-10-20,03:29,1986-01-02,19:14,General Surgery,F,60,K560,Intestinal obstruction without hernia
+38507,1992-10-06,11:06,1993-01-02,01:06,Obstetrics,F,55,C470,Cancer of brain and nervous system
+38747,2020-06-07,18:26,2020-08-03,17:03,General Surgery,M,59,F1010,Alcohol-related disorders
+38808,1988-04-02,06:20,1988-07-14,21:01,Obstetrics,F,51,C61,Cancer of prostate
+38829,2011-02-10,21:04,2011-02-26,23:03,General Surgery,M,70,V0100XA,External cause codes:  Pedestrian; not MVT
+38884,2008-11-05,22:53,2009-04-10,23:09,General Surgery,F,52,G43601,Acute cerebrovascular disease
+38893,2001-12-07,06:07,2002-05-08,04:01,Obstetrics,F,96,E089,Diabetes mellitus without complication
+39133,2016-07-21,16:54,2016-11-23,,General Surgery,F,38,H40001,Glaucoma
+39172,1998-01-06,18:21,1998-05-29,20:58,General Surgery,M,76,F600,Personality disorders
+39258,1980-04-19,03:23,1980-05-21,01:38,General Surgery,F,35,R072,Nonspecific chest pain
+39286,2005-05-30,17:32,2005-10-20,21:39,General Surgery,F,55,Z44001,Rehabilitation care; fitting of prostheses; and adjustment of devices
+39307,2002-03-31,02:18,2002-06-09,13:32,General Surgery,M,40,I10,Essential hypertension
+39309,2002-10-20,06:34,2003-02-23,08:10,General Surgery,F,91,N6001,Nonmalignant breast conditions
+39340,2012-09-29,13:53,2012-11-08,05:56,General Surgery,F,79,I6501,Occlusion or stenosis of precerebral arteries
+39360,1987-03-13,17:00,1987-06-07,08:57,Obstetrics,F,70,Y620,Adverse effects of medical care
+39601,1996-12-31,21:15,1997-04-14,,General Surgery,F,31,D5700,Sickle cell anemia
+39715,2006-05-01,20:17,2006-09-23,15:44,General Surgery,M,20,C9000,Multiple myeloma
+39836,1991-08-01,07:58,1991-11-28,22:06,General Surgery,M,65,Q5001,Genitourinary congenital anomalies
+40148,1984-05-03,10:33,1984-09-07,,General Surgery,F,93,K8000,Biliary tract disease
+40296,1982-06-03,18:08,1982-07-23,09:57,Obstetrics,F,77,G35,Multiple sclerosis
+40363,1993-07-28,02:18,1993-12-17,13:05,Obstetrics,M,22,A211,
+40453,2010-11-24,22:56,2011-05-11,06:09,General Surgery,M,46,G933,Malaise and fatigue
+40483,1985-02-20,21:21,1985-08-17,04:28,Obstetrics,F,54,V100XXA,External cause codes:  Pedal cyclist; not MVT
+40561,2007-10-06,10:06,2008-01-25,18:55,General Surgery,F,21,A021,Septicemia (except in labor)
+40651,1986-07-01,11:53,1986-07-30,03:11,General Surgery,M,17,G931,Coma; stupor; and brain damage
+40681,1985-03-21,11:27,1985-06-10,23:48,General Surgery,M,,Y92000,External cause codes:  Place of occurrence
+40841,1995-05-08,06:41,1995-09-28,21:31,General Surgery,F,47,D250,Benign neoplasm of uterus
+40873,1990-11-26,08:22,1991-01-15,12:24,Obstetrics,M,35,I83001,Varicose veins of lower extremity
+40952,1980-08-06,09:17,1980-11-10,08:55,General Surgery,M,88,G450,Transient cerebral ischemia
+40962,1984-08-28,17:36,1984-10-13,05:51,General Surgery,M,35,H25011,Cataract
+41004,1994-03-08,09:30,1994-08-24,16:00,General Surgery,F,17,N810,Prolapse of female genital organs
+41038,1989-03-02,11:00,1989-05-20,01:02,General Surgery,M,99,I2101,Acute myocardial infarction
+41063,2018-12-08,10:59,2019-02-26,21:28,General Surgery,M,,E28310,Menopausal disorders
+41074,2006-09-21,14:14,2006-10-19,23:53,General Surgery,M,51,G901,Nervous system congenital anomalies
+41109,2001-03-24,10:06,2001-05-13,,General Surgery,F,82,H33001,Retinal detachments; defects; vascular occlusion; and retinopathy
+41228,2008-08-23,21:49,2009-01-22,07:08,Obstetrics,F,92,W25XXXA,External cause codes:  Cut/pierce
+41256,1988-03-25,06:33,1988-04-26,,Obstetrics,F,22,D700,Diseases of white blood cells
+41342,1984-12-07,21:09,1985-03-04,05:45,General Surgery,F,,B350,Mycoses
+41384,2019-11-15,11:57,2020-05-08,10:32,General Surgery,F,100,T2000XA,Burns
+41405,1998-03-25,15:29,1998-08-15,03:15,General Surgery,F,92,B5731,Esophageal disorders
+41547,1990-11-25,23:06,1991-03-12,08:07,General Surgery,M,59,K850,Pancreatic disorders (not diabetes)
+41580,1987-04-05,11:57,1987-04-23,11:23,Obstetrics,F,44,C180,
+41621,2010-03-18,09:32,2010-04-26,17:17,General Surgery,M,94,M300,Systemic lupus erythematosus and connective tissue disorders
+41622,1981-10-13,16:31,1981-12-30,18:06,General Surgery,M,36,E840,Cystic fibrosis
+41688,1984-11-23,04:38,1985-04-06,23:14,General Surgery,F,,F064,
+41794,1999-04-25,04:47,1999-09-04,10:06,Obstetrics,F,92,C6200,
+41855,2007-10-13,16:19,2007-11-30,09:10,General Surgery,M,94,O080,Postabortion complications
+41924,2002-11-26,01:27,2002-12-27,07:40,General Surgery,F,75,C641,Cancer of kidney and renal pelvis
+41964,2009-05-23,01:14,2009-10-17,02:23,Obstetrics,M,58,M300,Systemic lupus erythematosus and connective tissue disorders
+42068,1985-02-03,17:51,1985-04-29,12:39,General Surgery,F,41,V0210XA,External cause codes:  Motor vehicle traffic (MVT)
+42082,1980-10-17,15:37,1981-02-13,06:21,General Surgery,M,55,O4700,Early or threatened labor
+42127,2002-08-19,13:29,2002-09-18,09:22,General Surgery,M,94,I8501,Gastrointestinal hemorrhage
+42142,2009-04-04,05:14,2009-10-04,18:01,General Surgery,M,51,B150,Hepatitis
+42239,1999-02-02,23:13,1999-07-28,06:17,Obstetrics,M,27,K251,Gastroduodenal ulcer (except hemorrhage)
+42263,2006-03-06,07:56,2006-04-14,05:31,Obstetrics,M,36,W320XXA,External cause codes:  Firearm
+42348,1996-01-23,13:13,1996-04-19,,General Surgery,M,83,I6900,Late effects of cerebrovascular disease
+42525,1991-02-08,04:12,1991-02-25,12:16,General Surgery,M,82,I8501,Gastrointestinal hemorrhage
+42546,2004-11-27,15:55,2005-06-15,,Obstetrics,F,78,D250,Benign neoplasm of uterus
+42593,2004-08-16,01:24,2004-09-20,06:09,General Surgery,F,98,S0000XA,Superficial injury; contusion
+42759,1990-03-31,17:20,1990-06-28,07:00,General Surgery,F,81,A021,Septicemia (except in labor)
+42784,2005-07-17,07:51,2005-07-31,13:55,General Surgery,M,89,C160,Cancer of stomach
+42910,1995-06-16,01:37,1995-12-24,14:13,General Surgery,M,73,R110,Nausea and vomiting
+42979,1996-12-22,17:28,1996-12-26,21:19,Obstetrics,M,44,E860,Fluid and electrolyte disorders
+42985,1996-10-03,07:16,1997-03-21,23:39,Obstetrics,F,65,G35,Multiple sclerosis
+43133,2011-08-29,17:48,2011-12-28,18:27,Obstetrics,M,,A0103,Pneumonia (except that caused by tuberculosis or sexually transmitted disease)
+43140,2009-09-17,13:46,2009-11-22,12:37,General Surgery,M,36,A0103,Pneumonia (except that caused by tuberculosis or sexually transmitted disease)
+43342,1999-06-16,18:42,1999-12-07,10:55,General Surgery,M,92,S0000XA,Superficial injury; contusion
+43573,1981-05-09,10:20,1981-10-13,,Obstetrics,M,88,N897,Menstrual disorders
+43618,2008-07-31,11:14,2008-11-14,03:23,General Surgery,M,,A6000,Viral infection
+43940,2018-06-26,11:33,2018-10-16,08:40,Obstetrics,F,100,C19,Cancer of rectum and anus
+43987,2005-03-09,08:32,2005-04-18,01:46,General Surgery,F,73,I70261,Gangrene
+44034,1990-03-18,04:00,1990-05-24,18:53,General Surgery,F,61,V0001XA,External cause codes:  Struck by; against
+44047,2015-07-05,05:45,2016-01-15,16:18,General Surgery,F,,Y09,External cause codes:  Unspecified
+44063,2020-04-13,08:17,2020-09-02,,General Surgery,M,30,R55,Syncope
+44108,1984-10-21,19:18,1985-03-20,,General Surgery,M,79,A211,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+44225,2008-01-02,01:29,2008-02-06,16:16,General Surgery,F,32,S020XXA,Skull and face fractures
+44402,1992-05-03,01:29,1992-09-29,23:25,General Surgery,F,20,M2010,Acquired foot deformities
+44442,2007-09-25,09:03,2008-04-10,03:49,General Surgery,M,36,T510X1A,Poisoning by nonmedicinal substances
+44517,1981-07-26,14:44,1981-11-23,,General Surgery,M,62,I462,
+44607,1980-08-19,05:44,1980-12-04,06:37,General Surgery,F,91,Z44001,Rehabilitation care; fitting of prostheses; and adjustment of devices
+44761,2000-05-27,08:27,2000-12-01,18:45,Obstetrics,F,94,N970,Female infertility
+44814,1980-04-09,10:34,1980-08-28,20:33,Obstetrics,M,21,T424X1A,Poisoning by psychotropic agents
+44833,2003-02-25,08:39,2003-06-16,20:57,General Surgery,F,22,S070XXA,Crushing injury or internal injury
+44837,1993-08-06,19:56,1993-09-08,17:11,General Surgery,F,93,S070XXA,Crushing injury or internal injury
+44873,1984-12-12,11:25,1985-01-25,03:40,General Surgery,M,39,C153,Cancer of esophagus
+44938,2011-05-24,13:19,2011-10-31,03:28,Obstetrics,F,38,H40001,Glaucoma
+44957,1995-09-02,15:34,1995-09-28,20:53,General Surgery,F,31,I670,Aortic; peripheral; and visceral artery aneurysms
+45028,2007-01-01,10:51,2007-06-17,11:42,General Surgery,F,31,J690,Aspiration pneumonitis; food/vomitus
+45063,1996-02-26,21:38,1996-09-06,,General Surgery,F,38,R072,Nonspecific chest pain
+45083,2005-06-17,14:58,2005-12-09,20:39,General Surgery,F,88,B350,Mycoses
+45213,1984-05-01,12:26,1984-05-18,,General Surgery,M,25,I70261,Gangrene
+45265,2003-02-15,22:28,2003-04-17,20:36,General Surgery,M,51,Z0000,Medical examination/evaluation
+45300,2002-08-29,02:03,2002-10-28,23:43,General Surgery,F,87,X000XXA,External cause codes:  Fire/burn
+45388,1996-04-06,04:12,1996-08-18,05:24,Obstetrics,M,40,V0210XA,External cause codes:  Motor vehicle traffic (MVT)
+45395,2004-01-08,21:29,2004-04-09,08:30,General Surgery,M,98,B053,Otitis media and related conditions
+45419,2019-05-12,14:10,2019-11-25,10:38,General Surgery,F,76,A021,Septicemia (except in labor)
+45451,1991-09-19,12:32,1991-11-24,21:55,General Surgery,F,74,N800,Endometriosis
+45530,2016-09-24,01:58,2016-12-28,,General Surgery,F,61,G450,Transient cerebral ischemia
+45555,2013-09-24,08:22,2014-01-18,03:31,Obstetrics,M,64,B053,Otitis media and related conditions
+45621,1981-02-16,19:06,1981-02-23,05:52,General Surgery,F,85,C540,Cancer of uterus
+45644,1986-06-27,20:58,1986-11-23,19:51,Obstetrics,F,15,J4520,
+45771,1991-02-19,18:18,1991-04-28,20:04,Obstetrics,F,24,D81818,Nutritional deficiencies
+45773,1995-08-02,20:00,1995-12-20,17:25,General Surgery,M,47,S060X0A,Intracranial injury
+45909,2002-06-27,04:33,2003-01-10,05:49,General Surgery,M,75,O4700,Early or threatened labor
+45976,1980-04-25,08:47,1980-11-06,01:35,Obstetrics,F,19,R760,Immunizations and screening for infectious disease
+46164,2004-08-11,08:09,2004-11-20,11:26,General Surgery,M,50,Z020,Administrative/social admission
+46419,1989-11-02,15:27,1990-01-24,11:40,General Surgery,F,72,K850,Pancreatic disorders (not diabetes)
+46488,1987-10-30,06:27,1988-02-19,09:15,General Surgery,F,76,J60,Lung disease due to external agents
+46522,1982-10-01,13:40,1983-01-23,10:20,General Surgery,M,21,I2601,Pulmonary heart disease
+46524,2003-04-26,04:12,2003-11-01,10:44,General Surgery,M,66,J4520,Asthma
+46663,1988-05-26,18:42,1988-08-22,21:46,Obstetrics,M,54,J4520,Asthma
+46716,1989-06-16,17:45,1989-11-07,11:31,Obstetrics,F,81,R100,Abdominal pain
+46737,1986-04-24,10:15,1986-07-07,,General Surgery,M,85,M2010,Acquired foot deformities
+46757,2004-06-30,03:16,2004-08-11,07:41,Obstetrics,F,,O080,Postabortion complications
+46836,2012-10-03,09:05,2013-02-01,22:33,Obstetrics,F,48,G40001,Epilepsy; convulsions
+46871,1981-01-04,09:58,1981-04-19,02:10,General Surgery,M,69,I83001,Varicose veins of lower extremity
+47047,1996-11-10,16:57,1997-04-03,23:21,General Surgery,F,,R5081,Fever of unknown origin
+47132,1984-03-31,08:18,1984-06-03,03:04,General Surgery,F,62,K5700,Diverticulosis and diverticulitis
+47134,2014-04-27,10:21,2014-08-17,16:32,General Surgery,F,17,E860,Fluid and electrolyte disorders
+47320,1980-11-19,21:56,1980-11-25,06:21,General Surgery,F,88,C000,Cancer of head and neck
+47337,2014-01-08,04:33,2014-04-03,,Obstetrics,M,69,H40001,Glaucoma
+47465,2013-03-09,10:18,2013-08-16,20:35,Obstetrics,F,33,C641,Cancer of kidney and renal pelvis
+47468,1987-03-22,07:44,1987-08-05,21:10,General Surgery,M,19,B2683,Nephritis; nephrosis; renal sclerosis
+47499,2017-11-29,04:48,2018-02-27,04:51,Obstetrics,M,21,I10,Essential hypertension
+47607,2000-04-06,04:21,2000-08-09,08:13,General Surgery,M,80,A150,Tuberculosis
+47612,1981-11-06,21:07,1981-12-24,10:24,Obstetrics,M,49,H5200,Blindness and vision defects
+47682,1984-02-27,08:22,1984-07-25,06:12,General Surgery,F,47,G43001,Headache; including migraine
+47758,1981-05-14,14:11,1981-08-31,17:03,General Surgery,F,20,G4700,Residual codes; unclassified
+47794,2011-10-02,14:17,2011-10-27,03:20,Obstetrics,M,30,T424X1A,Poisoning by psychotropic agents
+47807,2015-01-30,18:55,2015-05-08,12:11,General Surgery,M,26,N7001,Inflammatory diseases of female pelvic organs
+47920,1980-11-24,10:54,1980-11-25,11:29,General Surgery,F,85,R110,Nausea and vomiting
+48033,1992-01-31,23:26,1992-05-01,05:32,General Surgery,M,90,R45851,Suicide and intentional self-inflicted injury
+48166,1999-01-02,14:12,1999-07-20,16:25,General Surgery,M,52,G9611,Spinal cord injury
+48237,1982-06-13,20:13,1982-09-01,15:55,General Surgery,M,77,O3421,Previous C-section
+48256,1995-07-22,03:38,1995-12-18,02:59,General Surgery,F,65,B5731,Esophageal disorders
+48288,1987-04-09,20:23,1987-09-25,02:16,General Surgery,M,,S41001A,Open wounds of extremities
+48318,2014-08-19,05:15,2014-12-22,,General Surgery,M,41,O4700,Early or threatened labor
+48339,2007-08-11,11:56,2007-09-24,21:22,General Surgery,F,65,J60,
+48605,1993-10-23,01:13,1994-04-13,17:47,Obstetrics,F,54,A5001,Sexually transmitted infections (not HIV or hepatitis)
+48701,1990-02-20,11:25,1990-03-15,10:39,General Surgery,F,63,M2010,
+48824,1989-01-22,20:01,1989-06-27,13:32,Obstetrics,F,96,J200,Acute bronchitis
+48904,1985-07-12,01:59,1985-11-10,09:48,General Surgery,M,41,B20,HIV infection
+48936,2001-09-23,02:36,2001-12-09,07:13,Obstetrics,F,33,Q380,Digestive congenital anomalies
+49590,1991-06-12,03:45,1991-07-11,14:44,General Surgery,F,31,D89810,Complication of device; implant or graft
+49677,1994-07-31,04:35,1995-01-27,06:59,General Surgery,F,35,K2900,Gastritis and duodenitis
+49832,2001-08-14,20:32,2001-12-04,05:46,General Surgery,M,75,S020XXA,Skull and face fractures
+49953,1999-07-08,02:26,1999-10-30,04:57,Obstetrics,F,85,K5000,
+50262,2014-05-19,09:28,2014-08-31,20:19,General Surgery,F,74,I050,Heart valve disorders
+50291,2003-08-02,10:15,2003-08-27,04:35,General Surgery,M,61,D65,Coagulation and hemorrhagic disorders
+50382,2013-07-28,14:34,2013-11-08,19:34,General Surgery,M,45,F061,Miscellaneous mental health disorders
+50486,1980-12-21,23:41,1980-12-29,23:03,Obstetrics,F,15,E860,Fluid and electrolyte disorders
+50520,2001-11-25,13:49,2002-04-21,02:10,Obstetrics,M,92,E0800,Diabetes mellitus with complications
+50534,2015-05-09,22:38,2015-10-07,05:34,General Surgery,F,32,N897,Menstrual disorders
+50543,1986-11-04,21:52,1987-02-16,,General Surgery,F,48,F600,
+50548,1995-03-08,14:24,1995-07-21,21:22,General Surgery,F,59,G4700,Residual codes; unclassified
+50579,2005-07-09,15:55,2005-08-05,03:57,Obstetrics,M,76,C430,Melanomas of skin
+50589,2015-12-15,13:52,2016-01-14,10:59,Obstetrics,F,28,Z0000,Medical examination/evaluation
+50634,2003-12-05,15:31,2004-01-22,05:32,General Surgery,M,60,K850,Pancreatic disorders (not diabetes)
+50681,1983-08-27,07:34,1984-02-14,01:07,General Surgery,M,,A0103,Pneumonia (except that caused by tuberculosis or sexually transmitted disease)
+50753,2011-12-13,19:07,2012-06-06,07:06,General Surgery,M,29,B350,Mycoses
+51126,1991-04-01,14:46,1991-07-11,08:27,General Surgery,F,35,E840,Cystic fibrosis
+51155,2016-01-16,18:58,2016-04-23,20:06,Obstetrics,F,24,A0102,Bacterial infection; unspecified site
+51278,1995-02-28,17:46,1995-03-08,16:41,General Surgery,M,58,Q5001,
+51280,1998-08-13,06:01,1999-01-11,05:10,General Surgery,M,41,E000,Thyroid disorders
+51297,1984-07-03,17:45,1984-12-04,02:31,Obstetrics,M,60,R110,Nausea and vomiting
+51570,1982-08-18,01:06,1982-08-23,20:50,General Surgery,M,60,Z44001,Rehabilitation care; fitting of prostheses; and adjustment of devices
+51591,1980-07-30,20:33,1980-10-15,11:53,Obstetrics,F,68,Y09,External cause codes:  Unspecified
+51596,1987-03-07,11:08,1987-04-17,,General Surgery,M,21,K850,Pancreatic disorders (not diabetes)
+51606,2020-06-28,01:05,2020-11-28,04:28,General Surgery,M,77,P220,Respiratory distress syndrome
+51622,2011-11-28,10:48,2012-03-14,14:37,Obstetrics,M,88,N170,Acute and unspecified renal failure
+51630,1988-03-15,04:42,1988-09-05,05:03,General Surgery,M,66,D800,Immunity disorders
+51652,1997-04-06,21:05,1997-06-14,09:25,Obstetrics,M,,G4700,Residual codes; unclassified
+51671,2007-04-04,18:37,2007-04-25,10:00,General Surgery,M,71,N181,Chronic kidney disease
+51697,2010-10-22,03:24,2011-05-10,06:27,Obstetrics,M,32,R760,Immunizations and screening for infectious disease
+51712,1980-05-30,20:42,1980-09-20,03:21,Obstetrics,F,50,I462,Cardiac arrest and ventricular fibrillation
+51716,2011-03-16,02:10,2011-08-03,16:33,General Surgery,M,42,R110,Nausea and vomiting
+51785,2001-08-16,13:22,2001-12-07,16:33,General Surgery,F,18,D3701,Neoplasms of unspecified nature or uncertain behavior
+51794,1996-08-21,11:52,1996-12-28,04:47,General Surgery,M,22,I700,Peripheral and visceral atherosclerosis
+51828,2002-06-15,02:05,2002-06-18,01:00,General Surgery,M,16,A211,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+51963,1995-06-12,14:32,1995-09-06,01:20,General Surgery,M,34,C540,Cancer of uterus
+52018,1987-11-17,18:54,1988-05-31,06:36,General Surgery,M,34,D250,Benign neoplasm of uterus
+52182,2006-02-18,01:34,2006-06-08,03:10,General Surgery,M,33,M150,
+52209,2006-09-22,19:56,2007-01-11,14:49,General Surgery,M,96,D62,Acute posthemorrhagic anemia
+52237,1985-04-18,09:43,1985-09-14,22:17,General Surgery,F,40,Z44001,
+52335,1991-12-17,11:32,1992-01-17,20:25,Obstetrics,M,,S41001A,Open wounds of extremities
+52346,1984-07-21,09:16,1984-12-22,21:31,General Surgery,M,51,W420XXA,External cause codes:  Natural/environment
+52359,2005-10-06,03:40,2006-03-28,02:43,General Surgery,F,37,A0103,Pneumonia (except that caused by tuberculosis or sexually transmitted disease)
+52363,2002-07-09,17:21,2003-01-20,17:17,General Surgery,M,62,T424X1A,Poisoning by psychotropic agents
+52364,1985-12-03,01:00,1986-05-23,10:35,General Surgery,F,76,T2000XA,Burns
+52421,2019-05-13,08:46,2019-11-02,16:11,General Surgery,F,42,W16011A,External cause codes:  Drowning/submersion
+52593,2006-03-16,17:02,2006-04-28,02:17,General Surgery,F,49,Z020,Administrative/social admission
+52637,2016-08-18,09:51,2017-03-04,06:20,General Surgery,F,49,Y35201A,External cause codes:  Poisoning
+52763,1991-03-30,11:02,1991-08-10,21:26,General Surgery,F,83,C73,Cancer of thyroid
+52869,2001-10-29,07:48,2002-05-01,07:34,Obstetrics,M,40,B5731,Esophageal disorders
+52960,1988-08-29,19:03,1989-03-05,,General Surgery,M,87,G40001,
+53000,2005-02-17,19:13,2005-06-26,23:39,Obstetrics,M,46,E860,Fluid and electrolyte disorders
+53002,1993-03-11,20:21,1993-05-12,07:29,Obstetrics,F,55,V100XXA,External cause codes:  Pedal cyclist; not MVT
+53145,1997-03-31,04:27,1997-08-18,01:40,General Surgery,M,69,P293,Cardiac and circulatory congenital anomalies
+53293,2018-03-08,08:49,2018-07-16,02:52,General Surgery,F,42,C160,Cancer of stomach
+53413,2010-05-02,07:33,2010-05-19,,General Surgery,F,86,K2900,Gastritis and duodenitis
+53449,2010-07-03,08:40,2010-10-07,03:00,General Surgery,F,32,D89810,Complication of device; implant or graft
+53482,2000-08-21,18:43,2001-03-01,03:03,General Surgery,M,39,E28310,Menopausal disorders
+53574,2008-06-01,01:15,2008-07-12,10:41,General Surgery,F,57,I2601,Pulmonary heart disease
+53583,2018-05-07,19:28,2018-09-10,04:08,General Surgery,M,18,V00111A,External cause codes:  Fall
+53646,2006-02-10,08:31,2006-03-22,04:58,General Surgery,F,66,N139,Genitourinary symptoms and ill-defined conditions
+53797,2009-11-30,23:30,2010-05-07,05:33,General Surgery,F,26,G041,Paralysis
+53879,2017-07-18,01:56,2017-07-28,10:37,General Surgery,F,38,I470,Cardiac dysrhythmias
+53958,1999-07-19,15:28,1999-10-20,05:38,General Surgery,F,93,C000,Cancer of head and neck
+53988,2006-12-12,13:08,2007-05-10,06:48,General Surgery,M,65,I700,Peripheral and visceral atherosclerosis
+54117,2016-11-19,04:58,2017-04-16,21:12,Obstetrics,M,95,N800,Endometriosis
+54294,2018-03-13,11:34,2018-06-30,09:24,Obstetrics,M,97,N410,Inflammatory conditions of male genital organs
+54296,2017-05-25,16:23,2017-10-08,19:52,General Surgery,F,70,J09X1,Influenza
+54332,1999-05-01,05:24,1999-08-07,15:13,General Surgery,F,56,Y92000,External cause codes:  Place of occurrence
+54558,1996-06-06,03:36,1996-08-26,10:11,General Surgery,F,77,C220,Cancer of liver and intrahepatic bile duct
+54755,1995-10-08,18:03,1995-11-22,14:26,General Surgery,F,57,F642,Disorders usually diagnosed in infancy childhood or adolescence
+54819,1998-10-26,05:38,1999-03-11,06:43,General Surgery,M,60,N7001,Inflammatory diseases of female pelvic organs
+54845,2019-09-02,09:23,2020-02-17,01:20,General Surgery,F,25,F70,Developmental disorders
+54866,2020-06-05,11:12,2020-06-26,19:13,General Surgery,F,53,V0001XA,External cause codes:  Struck by; against
+54941,1998-06-23,15:01,1998-07-26,19:13,General Surgery,M,27,D65,Coagulation and hemorrhagic disorders
+55028,1997-08-08,01:39,1998-02-13,,General Surgery,M,24,C9010,Leukemias
+55086,1996-04-19,11:07,1996-09-14,04:05,Obstetrics,M,61,C470,Cancer of brain and nervous system
+55336,2010-01-12,19:28,2010-03-20,21:06,Obstetrics,M,18,D800,Immunity disorders
+55483,1993-05-13,20:44,1993-05-21,12:56,General Surgery,F,19,T510X1A,Poisoning by nonmedicinal substances
+55492,2000-01-26,23:32,2000-04-01,21:11,General Surgery,M,56,I6900,Late effects of cerebrovascular disease
+55513,2001-10-18,11:53,2002-04-24,22:59,General Surgery,F,52,I8000,Phlebitis; thrombophlebitis and thromboembolism
+55519,1996-01-05,05:11,1996-05-03,21:24,General Surgery,F,96,R100,Abdominal pain
+55706,2006-09-30,10:22,2007-01-19,,General Surgery,F,80,N830,Ovarian cyst
+55747,2009-02-12,03:54,2009-04-11,20:49,General Surgery,F,21,N897,Menstrual disorders
+55929,1982-10-03,19:30,1983-02-22,08:09,Obstetrics,M,58,F900,Attention-deficit conduct and disruptive behavior disorders
+55930,1984-08-07,20:35,1984-12-18,21:58,General Surgery,F,91,I0981,Congestive heart failure; nonhypertensive
+56043,2019-01-21,04:14,2019-08-02,,Obstetrics,F,33,I670,Aortic; peripheral; and visceral artery aneurysms
+56062,2007-02-05,06:21,2007-02-16,05:00,General Surgery,M,61,C540,Cancer of uterus
+56226,2010-08-25,08:44,2010-11-23,03:04,General Surgery,M,76,A000,Intestinal infection
+56275,1982-04-08,15:27,1982-04-27,02:36,General Surgery,M,77,J4520,Asthma
+56308,1992-07-20,07:37,1992-11-14,,Obstetrics,F,89,A150,Tuberculosis
+56431,1984-07-29,14:41,1984-09-28,16:46,General Surgery,F,59,J40,Chronic obstructive pulmonary disease and bronchiectasis
+56493,2014-10-11,12:35,2014-11-03,12:00,General Surgery,M,48,I8000,Phlebitis; thrombophlebitis and thromboembolism
+56512,2010-06-01,20:08,2010-07-18,15:43,General Surgery,F,80,E780,Disorders of lipid metabolism
+56595,2015-07-21,15:24,2015-11-27,,Obstetrics,F,71,Y35201A,External cause codes:  Poisoning
+56597,2014-11-18,04:53,2015-04-11,17:43,General Surgery,M,79,E840,Cystic fibrosis
+56598,1997-10-25,10:47,1998-03-20,17:33,Obstetrics,F,84,K098,Diseases of mouth; excluding dental
+56820,1993-11-14,08:27,1993-12-16,17:46,General Surgery,F,,A021,Septicemia (except in labor)
+56821,1988-02-10,07:20,1988-06-22,09:00,General Surgery,F,93,W420XXA,External cause codes:  Natural/environment
+56845,1995-12-20,19:33,1996-05-20,,General Surgery,F,34,S41001A,Open wounds of extremities
+56877,2011-03-15,13:35,2011-09-04,17:01,General Surgery,F,96,W320XXA,External cause codes:  Firearm
+56942,2016-08-16,05:48,2016-11-21,16:11,General Surgery,F,56,M8000XA,Pathological fracture
+56951,1985-10-24,19:12,1985-11-12,05:18,General Surgery,F,59,S031XXA,Sprains and strains
+56964,1981-03-30,12:09,1981-04-05,,Obstetrics,F,54,T424X1A,Poisoning by psychotropic agents
+57001,2015-12-23,03:40,2016-04-11,04:36,General Surgery,M,29,O320XX0,Malposition; malpresentation
+57007,2000-09-30,23:39,2000-10-31,22:42,General Surgery,M,94,D3701,Neoplasms of unspecified nature or uncertain behavior
+57014,1985-04-26,20:40,1985-06-17,11:28,Obstetrics,M,,V0001XA,External cause codes:  Struck by; against
+57153,1996-07-04,12:09,1996-11-23,16:31,General Surgery,F,51,F0630,Mood disorders
+57178,1987-10-27,20:58,1988-04-03,20:21,General Surgery,M,67,R502,Adverse effects of medical drugs
+57190,1981-08-30,13:02,1981-11-25,,General Surgery,M,40,C50011,Cancer of breast
+57235,1991-07-18,10:13,1991-12-17,23:17,General Surgery,F,75,B20,HIV infection
+57262,2013-04-24,20:08,2013-08-20,02:24,General Surgery,M,33,V00111A,External cause codes:  Fall
+57321,2018-09-10,14:31,2019-02-27,05:12,Obstetrics,M,20,K594,Anal and rectal conditions
+57413,1988-05-27,18:47,1988-07-14,10:29,General Surgery,F,48,N139,Genitourinary symptoms and ill-defined conditions
+57452,2009-05-18,18:20,2009-06-30,17:14,General Surgery,M,68,N897,Menstrual disorders
+57719,1997-07-09,22:17,1998-01-01,13:49,General Surgery,M,20,A6000,Viral infection
+57829,1987-02-17,05:08,1987-06-24,07:24,General Surgery,M,98,I670,Aortic; peripheral; and visceral artery aneurysms
+57864,1982-03-22,04:53,1982-05-22,02:28,Obstetrics,M,47,O4700,Early or threatened labor
+57876,2018-12-20,12:57,2019-02-04,13:56,General Surgery,F,41,B20,
+57950,1990-04-15,13:23,1990-05-04,,General Surgery,M,40,K594,Anal and rectal conditions
+57985,1992-06-05,02:42,1992-06-17,19:49,General Surgery,M,30,I8501,Gastrointestinal hemorrhage
+58064,1982-05-05,10:43,1982-07-18,15:16,General Surgery,M,,V100XXA,External cause codes:  Pedal cyclist; not MVT
+58094,1986-08-11,17:59,1986-12-07,05:03,Obstetrics,F,88,E0800,Diabetes mellitus with complications
+58245,1997-03-25,13:38,1997-07-09,10:49,Obstetrics,M,38,B20,
+58304,1991-06-09,09:12,1991-11-30,05:00,General Surgery,M,67,C3400,Cancer of bronchus; lung
+58366,2015-05-07,10:49,2015-10-14,08:12,General Surgery,M,77,A150,Tuberculosis
+58415,1991-04-24,18:56,1991-08-22,13:42,General Surgery,M,75,W420XXA,External cause codes:  Natural/environment
+58478,1996-04-25,09:39,1996-05-24,02:29,Obstetrics,M,61,J09X1,Influenza
+58570,2013-09-12,05:18,2014-03-14,01:05,Obstetrics,M,73,L89000,Chronic ulcer of skin
+58577,2020-06-24,07:00,2020-10-28,,General Surgery,M,68,I050,Heart valve disorders
+58583,2012-04-19,12:14,2012-04-24,,General Surgery,M,81,Z44001,
+58639,1988-03-05,14:55,1988-06-06,22:14,Obstetrics,M,67,O030,
+58770,1994-05-12,01:05,1994-05-13,13:18,General Surgery,M,91,K098,Diseases of mouth; excluding dental
+58805,2004-05-24,19:50,2004-06-07,21:53,General Surgery,M,41,J60,Lung disease due to external agents
+59169,2014-11-12,13:22,2015-01-31,14:59,General Surgery,M,84,D62,Acute posthemorrhagic anemia
+59261,1996-04-29,16:46,1996-07-21,02:19,General Surgery,F,69,J860,Pleurisy; pneumothorax; pulmonary collapse
+59308,1987-06-11,09:05,1987-09-15,02:52,General Surgery,F,61,C770,Secondary malignancies
+59529,1980-09-15,11:51,1980-10-13,10:58,General Surgery,F,78,W16011A,External cause codes:  Drowning/submersion
+59565,1999-05-05,01:20,1999-05-11,,General Surgery,F,43,G4700,Residual codes; unclassified
+59646,1988-12-12,17:00,1989-04-18,,General Surgery,F,57,F600,Personality disorders
+59681,2004-10-26,08:45,2005-03-14,06:28,General Surgery,F,51,A3212,Encephalitis (except that caused by tuberculosis or sexually transmitted disease)
+59682,2002-01-25,01:44,2002-02-06,10:10,General Surgery,M,40,O030,Spontaneous abortion
+59786,1982-09-30,14:03,1983-02-05,23:32,General Surgery,M,68,S031XXA,
+59793,1999-06-25,14:06,1999-12-12,23:06,General Surgery,M,25,G933,Malaise and fatigue
+59810,2015-04-20,23:53,2015-05-18,18:27,General Surgery,M,58,D3701,Neoplasms of unspecified nature or uncertain behavior
+59885,2016-06-11,05:42,2016-07-04,19:24,Obstetrics,M,49,N7001,
+59995,2019-11-01,14:06,2019-12-23,05:18,General Surgery,F,28,E28310,Menopausal disorders
+60010,2017-09-13,16:58,2017-10-09,17:58,General Surgery,F,24,C180,Cancer of colon
+60087,2005-04-11,16:00,2005-07-23,22:03,Obstetrics,F,,W420XXA,External cause codes:  Natural/environment
+60225,2005-07-26,20:57,2005-10-14,21:47,General Surgery,M,28,R570,Shock
+60249,2018-12-06,15:09,2019-01-02,09:46,Obstetrics,F,40,M150,Osteoarthritis
+60350,1989-04-27,17:29,1989-04-28,16:23,General Surgery,F,89,C641,Cancer of kidney and renal pelvis
+60399,1987-07-21,02:06,1987-11-22,15:13,Obstetrics,F,28,G43601,
+60418,2002-02-04,06:16,2002-07-16,17:03,General Surgery,M,62,V0210XA,External cause codes:  Motor vehicle traffic (MVT)
+60507,1991-11-08,17:11,1992-01-31,17:55,Obstetrics,F,58,W16011A,External cause codes:  Drowning/submersion
+60519,2014-07-28,08:51,2014-11-15,18:32,General Surgery,F,24,G43601,Acute cerebrovascular disease
+60672,2018-06-03,10:01,2018-07-25,20:33,Obstetrics,M,19,N410,Inflammatory conditions of male genital organs
+60769,2019-09-18,04:31,2020-01-03,09:38,Obstetrics,F,,C160,
+60776,2010-11-29,22:22,2011-02-11,22:18,General Surgery,F,59,I700,Peripheral and visceral atherosclerosis
+60816,2015-04-21,22:20,2015-07-01,01:14,General Surgery,F,81,M810,Osteoporosis
+60842,1999-11-26,04:18,2000-05-13,19:19,General Surgery,M,49,J860,Pleurisy; pneumothorax; pulmonary collapse
+61119,2003-01-13,14:32,2003-03-25,12:08,General Surgery,M,,C3400,Cancer of bronchus; lung
+61191,2019-11-24,03:02,2019-12-20,17:50,Obstetrics,M,,I70261,Gangrene
+61434,2016-10-07,23:27,2017-01-25,22:25,Obstetrics,F,46,G20,Parkinson`s disease
+61512,2016-12-02,19:35,2017-02-05,,General Surgery,M,71,I2101,Acute myocardial infarction
+61564,2011-09-02,01:05,2012-02-25,19:32,Obstetrics,F,67,Y36460A,
+61610,2010-10-06,21:14,2010-11-13,09:23,Obstetrics,F,61,I2101,Acute myocardial infarction
+61614,1995-05-10,15:16,1995-05-16,08:37,General Surgery,M,48,N139,Genitourinary symptoms and ill-defined conditions
+61637,2003-07-16,07:22,2003-11-09,23:43,Obstetrics,M,94,F0630,Mood disorders
+61659,2019-05-23,13:04,2019-08-11,09:15,General Surgery,M,69,I2601,
+61770,1991-11-22,16:56,1992-06-09,20:14,General Surgery,M,55,J60,Lung disease due to external agents
+61784,2000-02-28,03:43,2000-03-09,12:06,General Surgery,M,26,D89810,Complication of device; implant or graft
+61896,1987-05-27,07:43,1987-12-03,03:20,Obstetrics,F,98,B053,Otitis media and related conditions
+62005,2015-09-19,11:00,2015-12-11,11:00,General Surgery,M,46,O030,Spontaneous abortion
+62056,1988-01-12,05:58,1988-04-09,17:59,Obstetrics,M,88,S020XXA,Skull and face fractures
+62058,1991-06-17,06:10,1991-12-27,04:42,General Surgery,M,93,L89000,Chronic ulcer of skin
+62146,1984-02-22,12:36,1984-03-23,10:03,General Surgery,F,85,F1110,Substance-related disorders
+62197,1981-02-27,22:26,1981-03-04,21:47,General Surgery,F,88,B5731,Esophageal disorders
+62230,2016-02-24,08:01,2016-04-06,20:07,Obstetrics,F,43,N897,Menstrual disorders
+62340,2015-11-03,21:36,2016-04-07,,General Surgery,F,25,C530,Cancer of cervix
+62368,1987-10-12,22:39,1988-02-12,22:33,General Surgery,F,,L89000,Chronic ulcer of skin
+62520,2019-07-02,20:23,2019-09-01,06:49,General Surgery,F,73,I70261,Gangrene
+62538,1982-04-13,09:58,1982-10-25,10:55,Obstetrics,M,89,F600,Personality disorders
+62630,1998-07-25,17:42,1999-01-20,19:37,Obstetrics,M,58,D3701,
+62656,1985-07-31,04:36,1985-11-10,14:19,Obstetrics,M,66,I8000,Phlebitis; thrombophlebitis and thromboembolism
+62666,1984-06-12,23:06,1984-10-15,13:07,Obstetrics,F,53,H8101,Conditions associated with dizziness or vertigo
+62710,1999-08-13,12:19,1999-11-25,05:47,General Surgery,M,37,N800,Endometriosis
+62750,1990-05-20,23:57,1990-08-17,08:52,Obstetrics,F,100,S0100XA,Open wounds of head; neck; and trunk
+62782,2018-02-03,19:47,2018-02-16,22:43,Obstetrics,F,81,S0100XA,Open wounds of head; neck; and trunk
+62827,2005-04-10,09:33,2005-07-22,10:57,Obstetrics,M,43,K098,Diseases of mouth; excluding dental
+62973,2016-04-04,23:26,2016-06-26,15:14,General Surgery,F,66,E000,Thyroid disorders
+63052,2006-02-08,19:55,2006-03-17,20:30,Obstetrics,F,59,O30021,Fetopelvic disproportion; obstruction
+63079,2002-02-24,09:18,2002-02-25,21:19,Obstetrics,M,24,B20,HIV infection
+63129,2010-03-21,04:23,2010-09-29,,Obstetrics,F,65,W420XXA,External cause codes:  Natural/environment
+63172,2019-08-30,01:19,2020-03-16,08:35,General Surgery,M,87,H5200,Blindness and vision defects
+63357,1988-12-25,10:51,1989-04-18,19:51,General Surgery,F,41,Y09,External cause codes:  Unspecified
+63552,1993-12-01,19:38,1993-12-22,08:13,General Surgery,F,48,C180,Cancer of colon
+63586,2018-02-20,12:42,2018-09-01,18:03,General Surgery,F,72,M84361A,Fracture of lower limb
+63593,2003-10-22,06:16,2004-02-06,13:03,Obstetrics,M,76,S41001A,
+63662,1983-12-20,18:08,1984-05-04,,General Surgery,F,69,I8000,Phlebitis; thrombophlebitis and thromboembolism
+63724,2017-11-08,07:05,2018-01-06,21:26,General Surgery,M,47,R5081,Fever of unknown origin
+63921,1997-02-18,22:03,1997-02-24,07:32,General Surgery,M,90,C470,Cancer of brain and nervous system
+64029,2009-07-19,22:19,2009-09-05,12:38,General Surgery,M,74,M84311A,Fracture of upper limb
+64153,1982-09-01,06:54,1982-11-23,13:37,General Surgery,M,77,C561,Cancer of ovary
+64187,2020-04-17,13:02,2020-06-08,20:22,General Surgery,M,82,C4000,Cancer of bone and connective tissue
+64238,2020-01-04,07:02,2020-02-04,16:21,General Surgery,F,70,N139,Genitourinary symptoms and ill-defined conditions
+64413,1996-07-11,18:08,1996-08-15,,General Surgery,M,71,J860,Pleurisy; pneumothorax; pulmonary collapse
+64435,2000-04-21,11:52,2000-04-27,18:24,Obstetrics,M,88,V0100XA,External cause codes:  Pedestrian; not MVT
+64803,1994-07-19,15:42,1994-10-04,02:54,General Surgery,M,21,M0500,Rheumatoid arthritis and related disease
+64816,1991-08-30,13:49,1991-09-16,09:10,Obstetrics,F,17,Z30011,Contraceptive and procreative management
+65049,2017-06-23,01:39,2017-12-27,18:52,Obstetrics,F,18,N7001,Inflammatory diseases of female pelvic organs
+65102,2015-07-23,09:23,2015-10-22,07:30,Obstetrics,F,85,F061,Miscellaneous mental health disorders
+65156,1991-10-12,18:17,1991-10-13,16:58,Obstetrics,F,78,I700,Peripheral and visceral atherosclerosis
+65241,1994-03-01,01:41,1994-04-20,,General Surgery,F,70,C9010,Leukemias
+65265,1996-04-11,22:15,1996-07-06,03:38,General Surgery,M,18,C430,Melanomas of skin
+65368,1989-10-26,09:39,1989-12-24,03:09,General Surgery,M,68,K251,Gastroduodenal ulcer (except hemorrhage)
+65481,1995-08-29,13:23,1995-09-16,16:41,Obstetrics,M,58,R110,Nausea and vomiting
+65666,2005-09-01,22:38,2006-01-11,19:18,General Surgery,F,50,C670,Cancer of bladder
+65672,1987-12-06,13:51,1988-05-06,08:30,General Surgery,F,71,S020XXA,Skull and face fractures
+65700,1999-03-25,22:20,1999-05-17,,General Surgery,M,44,O4700,Early or threatened labor
+65762,2015-06-06,15:32,2015-08-28,14:40,General Surgery,F,,B350,Mycoses
+65986,1989-06-05,06:17,1989-10-26,10:25,General Surgery,F,,K4000,Abdominal hernia
+66002,1983-04-18,20:22,1983-05-08,,General Surgery,M,,C430,Melanomas of skin
+66091,2003-10-10,18:42,2004-01-01,17:39,Obstetrics,F,85,I880,Lymphadenitis
+66205,2007-02-25,10:40,2007-03-27,01:21,General Surgery,F,,C770,Secondary malignancies
+66496,2011-04-16,08:04,2011-07-17,21:47,General Surgery,M,35,N800,Endometriosis
+66498,2017-01-24,23:45,2017-04-30,21:34,General Surgery,F,25,C000,Cancer of head and neck
+66564,2001-08-20,08:34,2001-11-29,11:33,General Surgery,F,33,Y09,
+66615,2014-08-23,21:14,2014-12-01,,Obstetrics,M,,C61,Cancer of prostate
+66806,2019-01-15,21:19,2019-05-15,01:20,Obstetrics,F,54,P220,Respiratory distress syndrome
+66945,2006-10-18,09:03,2007-01-03,02:04,General Surgery,F,39,I0981,Congestive heart failure; nonhypertensive
+67308,1996-03-23,03:05,1996-09-12,02:50,General Surgery,M,90,A150,Tuberculosis
+67461,2014-08-15,06:56,2015-02-05,08:54,General Surgery,F,50,O320XX0,Malposition; malpresentation
+67491,1999-12-23,05:38,2000-03-09,01:15,General Surgery,M,39,K4000,Abdominal hernia
+67572,2018-12-03,23:21,2019-02-11,23:42,General Surgery,M,49,G901,Nervous system congenital anomalies
+67628,2010-05-04,05:24,2010-07-06,21:15,General Surgery,M,,I880,Lymphadenitis
+67765,2020-01-18,20:41,2020-02-22,18:26,General Surgery,M,31,O080,Postabortion complications
+67811,2005-01-24,10:45,2005-02-20,06:33,General Surgery,F,,G43601,Acute cerebrovascular disease
+67903,2007-09-30,19:02,2007-10-10,18:06,Obstetrics,F,92,F4320,Adjustment disorders
+67951,2004-12-11,13:31,2005-04-03,17:57,General Surgery,F,54,N6001,Nonmalignant breast conditions
+67963,2002-03-23,01:58,2002-04-16,20:31,General Surgery,F,57,J40,Chronic obstructive pulmonary disease and bronchiectasis
+68114,2014-06-01,15:00,2014-10-18,05:45,General Surgery,M,29,F1110,Substance-related disorders
+68470,1989-08-24,11:50,1989-11-01,21:36,General Surgery,F,65,B2683,Nephritis; nephrosis; renal sclerosis
+68622,1982-11-30,06:23,1983-06-06,17:58,General Surgery,M,37,D81818,Nutritional deficiencies
+68805,1982-11-09,02:37,1983-02-03,01:46,General Surgery,F,34,D5700,Sickle cell anemia
+68961,1988-09-13,23:54,1988-11-10,14:22,General Surgery,M,51,S0000XA,Superficial injury; contusion
+68998,1996-02-20,16:54,1996-08-16,01:35,General Surgery,M,59,N830,Ovarian cyst
+69018,1985-04-30,20:51,1985-10-11,,General Surgery,F,55,G9611,Spinal cord injury
+69070,2001-07-30,17:48,2002-02-11,,Obstetrics,F,38,C180,Cancer of colon
+69168,2007-10-24,15:04,2007-10-25,16:05,General Surgery,M,65,N897,Menstrual disorders
+69180,2007-02-07,19:57,2007-07-17,17:04,Obstetrics,M,,V0210XA,External cause codes:  Motor vehicle traffic (MVT)
+69296,2007-08-09,09:18,2007-12-06,22:19,General Surgery,M,36,I2601,
+69300,1980-03-06,19:35,1980-05-14,16:37,General Surgery,M,49,B150,Hepatitis
+69336,1983-02-16,13:32,1983-08-23,22:00,General Surgery,F,62,Y92000,External cause codes:  Place of occurrence
+69529,1996-01-03,03:42,1996-07-04,,Obstetrics,M,48,M2010,Acquired foot deformities
+69688,1989-04-04,20:52,1989-09-02,11:27,General Surgery,F,61,K640,Hemorrhoids
+69707,1999-06-26,12:15,1999-12-16,02:09,General Surgery,M,59,C9010,Leukemias
+69888,2001-02-23,11:44,2001-06-06,09:53,General Surgery,M,97,C4000,Cancer of bone and connective tissue
+69902,2016-10-22,05:33,2017-03-18,03:24,General Surgery,F,89,T424X1A,Poisoning by psychotropic agents
+69922,1987-10-21,18:13,1987-12-31,11:03,Obstetrics,M,98,C9010,Leukemias
+69943,1981-09-10,18:09,1981-10-19,14:31,General Surgery,F,54,J690,Aspiration pneumonitis; food/vomitus
+69964,1996-12-26,03:24,1997-05-14,16:55,General Surgery,F,17,A211,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease)
+69976,2008-12-26,16:43,2009-06-09,15:52,General Surgery,F,60,R780,Screening and history of mental health and substance abuse codes
+70075,2017-10-21,11:04,2018-01-13,07:05,General Surgery,F,100,P550,Hemolytic jaundice and perinatal jaundice
+70103,2016-05-18,14:55,2016-10-07,09:55,General Surgery,F,49,C3400,Cancer of bronchus; lung
+70141,1994-11-21,09:45,1995-03-14,05:05,General Surgery,M,79,K5000,Regional enteritis and ulcerative colitis
+70147,1990-02-12,06:24,1990-04-09,,General Surgery,M,50,F064,Anxiety disorders
+70158,1988-04-08,04:07,1988-09-11,03:50,Obstetrics,F,53,C670,Cancer of bladder
+70160,1994-02-16,05:04,1994-06-07,,Obstetrics,F,82,H5200,Blindness and vision defects
+70326,2008-01-09,01:13,2008-01-18,14:05,General Surgery,F,67,O080,Postabortion complications
+70384,1999-05-21,07:22,1999-10-19,15:21,General Surgery,M,87,I462,Cardiac arrest and ventricular fibrillation
+70440,2001-12-02,17:21,2002-03-20,05:33,Obstetrics,M,84,Y36460A,External cause codes:  Suffocation
+70443,2000-06-19,03:41,2000-08-14,16:27,General Surgery,F,34,C4000,Cancer of bone and connective tissue
+70487,2010-01-26,15:39,2010-04-04,19:24,General Surgery,F,36,C9010,Leukemias
+70520,1995-01-04,20:01,1995-06-16,,General Surgery,F,69,D89810,Complication of device; implant or graft
+70595,2013-02-19,01:01,2013-08-22,20:23,General Surgery,M,31,V100XXA,External cause codes:  Pedal cyclist; not MVT
+70621,1993-05-26,08:31,1993-07-21,,Obstetrics,M,73,V0001XA,External cause codes:  Struck by; against
+70876,1993-11-06,01:27,1994-01-18,13:05,General Surgery,M,16,A7481,Peritonitis and intestinal abscess
+71250,2000-04-12,20:59,2000-10-07,,General Surgery,F,38,A5001,Sexually transmitted infections (not HIV or hepatitis)
+71357,2004-04-27,23:33,2004-08-18,10:47,Obstetrics,F,65,C3400,Cancer of bronchus; lung
+71404,2007-08-20,23:10,2007-10-27,17:43,Obstetrics,M,,G931,Coma; stupor; and brain damage
+71444,1987-05-23,16:31,1987-12-02,14:24,Obstetrics,F,47,C180,Cancer of colon
+71605,1981-06-28,23:18,1981-11-12,12:28,General Surgery,F,35,A3681,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease)
+71606,2007-06-01,04:19,2007-09-16,18:37,Obstetrics,F,15,Z0000,Medical examination/evaluation
+71612,2006-05-17,18:26,2006-11-26,17:40,Obstetrics,F,22,Z30011,Contraceptive and procreative management
+71796,1986-02-20,09:50,1986-04-02,12:41,Obstetrics,M,55,R760,Immunizations and screening for infectious disease
+71873,1981-04-23,05:50,1981-10-25,19:10,General Surgery,M,95,R502,Adverse effects of medical drugs
+71915,2016-10-03,01:27,2017-02-20,21:33,General Surgery,F,,Z3800,Liveborn
+71929,1988-11-02,02:38,1989-04-06,11:58,Obstetrics,F,78,C250,
+71964,1983-08-23,14:07,1983-11-14,16:19,Obstetrics,F,37,F642,Disorders usually diagnosed in infancy childhood or adolescence
+72079,1995-01-01,16:14,1995-02-21,,General Surgery,M,40,A3681,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease)
+72260,1992-03-21,15:00,1992-04-14,09:52,General Surgery,M,92,M84361A,Fracture of lower limb
+72425,1996-06-04,06:00,1996-08-06,09:48,Obstetrics,F,96,V100XXA,External cause codes:  Pedal cyclist; not MVT
+72455,1994-12-03,21:48,1995-04-12,22:38,General Surgery,M,98,K594,Anal and rectal conditions
+72836,2011-07-30,20:49,2012-01-18,02:48,General Surgery,F,45,E840,Cystic fibrosis
+73087,1990-01-07,17:52,1990-07-20,21:37,General Surgery,F,17,F642,Disorders usually diagnosed in infancy childhood or adolescence
+73555,1998-09-17,08:03,1998-10-19,11:51,General Surgery,F,90,C459,Malignant neoplasm without specification of site
+73576,1983-09-10,18:12,1983-10-25,06:16,Obstetrics,M,48,N6001,Nonmalignant breast conditions
+73624,2002-04-27,15:10,2002-10-15,02:41,Obstetrics,F,67,Y36460A,External cause codes:  Suffocation
+73633,2011-09-11,08:25,2012-02-10,05:54,General Surgery,M,73,D62,Acute posthemorrhagic anemia
+73662,2002-12-11,18:08,2003-01-15,17:39,General Surgery,F,61,A201,Skin and subcutaneous tissue infections
+73908,2001-04-10,18:42,2001-07-24,02:27,General Surgery,F,73,R45851,Suicide and intentional self-inflicted injury
+74023,2010-11-14,10:16,2011-02-25,22:38,General Surgery,F,,G40001,Epilepsy; convulsions
+74036,2002-04-18,08:35,2002-06-18,17:06,General Surgery,M,20,N6001,Nonmalignant breast conditions
+74042,1986-08-29,15:36,1986-09-28,06:42,General Surgery,M,65,B150,Hepatitis
+74059,2015-06-20,19:16,2015-10-11,15:28,General Surgery,F,16,H33001,Retinal detachments; defects; vascular occlusion; and retinopathy
+74089,2015-09-08,03:19,2015-09-11,02:38,General Surgery,M,93,G4700,Residual codes; unclassified
+74091,1982-11-01,16:01,1982-12-08,17:21,General Surgery,F,74,M84311A,Fracture of upper limb
+74101,2001-03-30,05:24,2001-08-11,08:09,Obstetrics,M,17,Y35201A,External cause codes:  Poisoning
+74193,1996-09-06,15:12,1996-12-30,,General Surgery,F,54,K251,Gastroduodenal ulcer (except hemorrhage)
+74393,2014-02-20,18:07,2014-07-20,,General Surgery,F,73,A021,Septicemia (except in labor)
+74425,2013-07-03,09:30,2014-01-15,,Obstetrics,F,49,M1250,Joint disorders and dislocations; trauma-related
+74435,2016-12-29,05:50,2017-01-30,20:53,General Surgery,F,87,W320XXA,External cause codes:  Firearm
+74534,2016-04-01,18:14,2016-04-26,15:12,General Surgery,F,31,E28310,Menopausal disorders
+74572,1989-02-21,23:44,1989-05-24,,Obstetrics,M,35,G901,Nervous system congenital anomalies
+74682,1980-08-27,09:04,1980-10-19,11:51,General Surgery,M,64,F70,Developmental disorders
+74878,1989-03-22,18:53,1989-05-26,06:20,General Surgery,M,87,C670,Cancer of bladder
+74934,2018-08-03,06:26,2018-10-19,21:06,General Surgery,F,55,K5700,Diverticulosis and diverticulitis
+75043,1986-08-21,14:34,1987-01-31,19:48,General Surgery,M,79,D800,Immunity disorders
+75086,2005-11-22,07:58,2005-12-18,18:40,General Surgery,F,47,T2000XA,Burns
+75128,1990-11-28,17:44,1991-05-27,05:09,General Surgery,M,97,C8100,Hodgkin`s disease
+75178,1989-04-30,20:32,1989-06-12,05:17,General Surgery,F,73,N400,Hyperplasia of prostate
+75266,2018-01-16,13:54,2018-05-27,19:05,General Surgery,M,27,A6000,Viral infection
+75270,2000-06-05,18:46,2000-10-18,07:21,General Surgery,F,55,K640,Hemorrhoids
+75347,2006-08-11,01:05,2006-11-27,13:47,General Surgery,M,85,G9611,Spinal cord injury
+75480,2016-03-11,03:58,2016-04-28,06:14,General Surgery,M,64,I8000,Phlebitis; thrombophlebitis and thromboembolism
+75556,2004-11-23,08:31,2005-05-13,12:08,Obstetrics,M,75,J4520,Asthma
+75668,1994-12-10,19:03,1995-05-22,20:19,Obstetrics,F,27,O4700,Early or threatened labor
+75670,1994-10-21,12:46,1995-02-19,13:51,Obstetrics,M,64,J40,
+75678,2015-10-14,09:00,2015-11-08,14:59,General Surgery,F,33,I10,Essential hypertension
+75823,1986-09-27,08:21,1987-04-05,06:48,General Surgery,M,93,A0103,Pneumonia (except that caused by tuberculosis or sexually transmitted disease)
+75987,2010-05-30,21:58,2010-06-28,09:15,General Surgery,F,88,O030,Spontaneous abortion
+76026,1991-01-02,20:05,1991-04-28,17:19,Obstetrics,F,24,J0380,Acute and chronic tonsillitis
+76061,2008-09-30,14:26,2008-10-18,06:09,General Surgery,M,29,D6481,Complications of surgical procedures or medical care
+76078,2020-04-06,02:42,2020-10-14,07:13,Obstetrics,M,57,W420XXA,External cause codes:  Natural/environment
+76147,1992-06-07,04:43,1992-11-20,,General Surgery,F,70,C540,Cancer of uterus
+76186,1982-04-02,18:24,1982-06-13,01:28,General Surgery,F,63,M150,Osteoarthritis
+76200,2019-05-21,13:48,2019-10-12,23:28,Obstetrics,M,96,C6200,Cancer of testis
+76206,1994-01-25,18:39,1994-02-02,23:16,General Surgery,M,81,V0001XA,External cause codes:  Struck by; against
+76284,1997-03-27,06:32,1997-06-20,15:55,Obstetrics,M,76,V200XXA,External cause codes:  Transport; not MVT
+76301,1988-01-11,05:40,1988-03-30,10:40,General Surgery,F,46,F900,Attention-deficit conduct and disruptive behavior disorders
+76365,2002-10-14,07:32,2002-12-07,02:01,Obstetrics,F,38,D700,Diseases of white blood cells
+76437,1993-12-22,05:19,1994-06-14,21:55,General Surgery,M,65,B150,Hepatitis
+76567,1990-12-29,10:46,1991-05-20,,General Surgery,M,40,F642,Disorders usually diagnosed in infancy childhood or adolescence
+76572,1986-07-31,07:11,1986-12-02,23:42,General Surgery,M,57,S070XXA,Crushing injury or internal injury
+76582,2015-01-13,07:04,2015-07-16,12:45,General Surgery,F,69,V100XXA,External cause codes:  Pedal cyclist; not MVT
+76583,2004-12-10,18:11,2005-01-20,01:35,General Surgery,M,88,C153,Cancer of esophagus
+76589,2010-04-09,03:24,2010-04-15,01:28,General Surgery,M,83,M2010,Acquired foot deformities
+76631,2003-05-09,08:50,2003-07-28,15:48,General Surgery,F,27,H8101,Conditions associated with dizziness or vertigo
+76704,1997-07-26,09:52,1997-10-03,23:28,General Surgery,F,53,R110,Nausea and vomiting
+76809,1988-10-27,20:36,1989-03-21,01:50,General Surgery,M,47,O080,Postabortion complications
+76840,2003-05-31,17:37,2003-11-10,15:38,General Surgery,F,26,I880,Lymphadenitis
+76846,1989-03-13,09:33,1989-04-25,,General Surgery,F,33,W25XXXA,External cause codes:  Cut/pierce
+76874,1995-08-26,06:06,1996-03-02,04:37,Obstetrics,F,68,C641,Cancer of kidney and renal pelvis
+76902,1994-12-30,17:48,1995-03-12,16:34,General Surgery,F,65,R5081,Fever of unknown origin
+77036,1999-10-07,23:51,1999-12-19,,Obstetrics,M,22,C6200,Cancer of testis
+77229,2018-04-20,08:44,2018-11-04,03:49,General Surgery,M,32,Z0000,Medical examination/evaluation
+77348,1986-04-19,19:55,1986-06-15,20:34,General Surgery,F,72,N181,Chronic kidney disease
+77353,2007-02-16,22:32,2007-03-03,21:12,General Surgery,F,20,I10,Essential hypertension
+77381,1990-12-17,15:28,1991-01-30,17:51,Obstetrics,F,83,I2601,Pulmonary heart disease
+77595,2016-01-03,15:37,2016-07-04,09:49,General Surgery,F,74,O045,Induced abortion
+77633,1990-02-28,06:03,1990-08-08,19:26,General Surgery,M,50,R780,Screening and history of mental health and substance abuse codes
+77657,2011-09-24,04:29,2012-01-26,19:15,General Surgery,F,64,B4481,Allergic reactions
+77769,1989-10-14,20:14,1990-02-24,10:05,General Surgery,F,71,A0104,
+78048,1992-10-26,21:12,1993-03-10,13:21,General Surgery,M,52,R502,Adverse effects of medical drugs
+78192,1992-07-02,18:30,1992-10-26,17:24,General Surgery,F,85,C4000,Cancer of bone and connective tissue
+78467,1984-05-09,11:42,1984-08-28,,General Surgery,F,56,F600,Personality disorders
+78605,1988-02-23,02:11,1988-08-10,23:27,General Surgery,F,46,R100,Abdominal pain
+78636,1980-09-14,05:18,1981-03-29,11:41,Obstetrics,F,60,C4000,Cancer of bone and connective tissue
+78660,2015-05-21,05:00,2015-06-04,,General Surgery,M,30,O080,Postabortion complications
+78716,2016-04-11,13:08,2016-09-03,,General Surgery,M,32,R570,Shock
+78721,2009-06-12,06:52,2009-08-04,04:27,General Surgery,M,82,N897,Menstrual disorders
+78732,1984-07-09,01:20,1985-01-19,17:08,General Surgery,F,20,B053,Otitis media and related conditions
+78942,1997-10-07,15:45,1998-03-22,16:58,General Surgery,F,38,N6001,
+78979,2003-10-27,02:46,2004-03-29,21:12,General Surgery,F,92,F70,Developmental disorders
+78992,2003-11-14,09:51,2004-02-28,05:58,Obstetrics,M,94,C50011,
+79120,2014-05-08,10:42,2014-09-12,13:53,General Surgery,F,,I70261,
+79218,2004-02-18,04:37,2004-08-05,12:22,General Surgery,F,90,X000XXA,External cause codes:  Fire/burn
+79357,2012-11-26,12:11,2013-03-09,08:30,Obstetrics,M,37,N200,Calculus of urinary tract
+79469,2007-11-27,16:41,2008-06-02,15:25,Obstetrics,F,59,N897,Menstrual disorders
+79572,1989-03-15,06:39,1989-03-16,07:03,Obstetrics,F,40,D5700,
+79583,2008-10-06,02:01,2009-01-17,,General Surgery,F,34,W1840XA,External cause codes:  Overexertion
+79588,2019-05-16,17:29,2019-09-06,,General Surgery,M,59,C9000,Multiple myeloma
+79686,1987-03-28,08:53,1987-08-17,,General Surgery,M,39,I83001,Varicose veins of lower extremity
+79767,2009-01-26,22:53,2009-06-12,13:12,General Surgery,F,87,J40,Chronic obstructive pulmonary disease and bronchiectasis
+79775,2009-01-23,02:58,2009-07-19,22:00,General Surgery,F,80,K251,Gastroduodenal ulcer (except hemorrhage)
+79823,2007-07-27,06:32,2007-12-16,04:10,General Surgery,F,60,P550,Hemolytic jaundice and perinatal jaundice
+79966,1985-09-06,03:32,1985-10-13,18:49,General Surgery,M,47,E860,Fluid and electrolyte disorders
+80132,2014-08-18,01:37,2015-03-04,19:04,Obstetrics,M,39,I0981,
+80425,1988-01-02,14:31,1988-03-16,10:32,General Surgery,M,91,S0100XA,Open wounds of head; neck; and trunk
+80461,1991-02-27,07:46,1991-05-27,23:39,General Surgery,F,57,W240XXA,External cause codes:  Machinery
+80469,2000-12-05,04:30,2001-03-29,06:13,Obstetrics,M,43,P220,Respiratory distress syndrome
+80478,1994-05-01,21:52,1994-07-01,10:02,General Surgery,F,92,E089,
+80548,2012-04-26,19:29,2012-10-21,15:17,General Surgery,M,67,Z0000,Medical examination/evaluation
+80698,1980-09-06,13:57,1980-12-09,15:27,Obstetrics,F,17,V0001XA,External cause codes:  Struck by; against
+80783,2002-07-03,21:48,2003-01-18,10:54,Obstetrics,F,76,I050,Heart valve disorders
+80905,1989-08-02,10:54,1990-01-22,23:14,General Surgery,F,26,N200,Calculus of urinary tract
+81025,2003-04-09,17:49,2003-06-17,06:09,General Surgery,F,45,D6481,Complications of surgical procedures or medical care
+81084,1994-09-12,01:53,1995-01-09,11:11,General Surgery,F,38,F900,Attention-deficit conduct and disruptive behavior disorders
+81433,2008-04-23,12:39,2008-05-24,22:12,General Surgery,M,89,S0100XA,Open wounds of head; neck; and trunk
+81454,1991-03-08,13:29,1991-09-14,11:34,General Surgery,F,41,B20,HIV infection
+81481,2006-10-17,16:49,2006-11-19,17:33,Obstetrics,F,92,E0800,
+81502,2011-11-15,16:55,2011-11-24,19:14,General Surgery,M,,W25XXXA,External cause codes:  Cut/pierce
+81527,2012-08-03,09:10,2012-10-20,04:22,General Surgery,F,73,D700,Diseases of white blood cells
+81664,2000-02-18,21:36,2000-03-01,02:30,General Surgery,M,,E28310,Menopausal disorders
+81730,1989-11-29,18:17,1990-01-12,16:16,General Surgery,M,69,C50011,Cancer of breast
+81896,2006-08-04,11:28,2006-08-11,09:46,General Surgery,M,34,C9010,Leukemias
+81944,2000-12-22,06:51,2001-02-05,04:45,Obstetrics,M,34,C9000,Multiple myeloma
+82079,2013-03-20,02:21,2013-04-27,11:05,Obstetrics,F,88,V100XXA,External cause codes:  Pedal cyclist; not MVT
+82097,2009-05-26,05:07,2009-10-02,,General Surgery,M,77,K640,Hemorrhoids
+82098,1990-06-27,03:54,1990-08-13,10:55,Obstetrics,F,18,R570,Shock
+82265,1989-08-18,22:22,1989-11-28,,Obstetrics,M,46,K4000,Abdominal hernia
+82339,2010-11-16,17:33,2011-01-23,,General Surgery,F,89,A5001,Sexually transmitted infections (not HIV or hepatitis)
+82369,1998-04-19,05:04,1998-08-02,08:37,General Surgery,M,40,P550,Hemolytic jaundice and perinatal jaundice
+82389,2015-03-09,11:33,2015-08-02,10:43,General Surgery,F,79,R072,Nonspecific chest pain
+82430,2014-07-06,01:36,2014-12-22,21:50,General Surgery,M,24,J80,Respiratory failure; insufficiency; arrest (adult)
+82449,1981-04-06,19:43,1981-08-22,08:36,General Surgery,F,42,M8000XA,Pathological fracture
+82466,1990-02-04,01:02,1990-03-05,,General Surgery,M,42,D89810,Complication of device; implant or graft
+82579,1981-08-02,15:52,1981-12-07,09:15,General Surgery,F,53,K098,Diseases of mouth; excluding dental
+82723,1997-03-08,08:05,1997-03-14,,General Surgery,M,73,J40,
+82993,2012-10-01,01:59,2013-02-13,01:38,Obstetrics,F,59,C9010,Leukemias
+83019,1991-08-17,19:26,1991-12-18,17:01,General Surgery,M,89,D700,Diseases of white blood cells
+83093,1995-03-24,23:45,1995-08-14,20:47,General Surgery,F,39,A0103,Pneumonia (except that caused by tuberculosis or sexually transmitted disease)
+83098,2020-01-10,16:27,2020-05-15,10:52,General Surgery,M,,C470,Cancer of brain and nervous system
+83215,1992-04-19,20:26,1992-10-25,13:31,General Surgery,F,46,I83001,Varicose veins of lower extremity
+83304,2011-07-01,04:01,2011-12-14,13:40,General Surgery,M,36,G4700,Residual codes; unclassified
+83359,1987-10-09,16:41,1988-02-04,01:55,General Surgery,F,69,I70261,Gangrene
+83433,1992-07-16,20:53,1992-10-30,21:52,General Surgery,F,70,W240XXA,External cause codes:  Machinery
+83476,1990-10-09,02:58,1991-02-11,22:37,General Surgery,F,51,J09X1,Influenza
+83582,1998-05-10,22:00,1998-10-14,10:03,General Surgery,F,32,N810,Prolapse of female genital organs
+83793,1995-06-10,12:42,1995-08-10,21:12,General Surgery,M,18,G43001,Headache; including migraine
+83895,2007-05-13,05:04,2007-10-26,23:12,General Surgery,F,66,D89810,Complication of device; implant or graft
+83965,1986-07-13,07:10,1986-10-14,23:12,Obstetrics,M,81,Y620,Adverse effects of medical care
+84037,1991-03-07,01:04,1991-04-02,17:32,General Surgery,M,50,G20,Parkinson`s disease
+84079,1998-11-19,01:31,1999-02-04,,General Surgery,M,89,B350,Mycoses
+84100,1996-11-05,20:54,1997-01-04,01:15,General Surgery,F,53,Y09,External cause codes:  Unspecified
+84135,2011-02-04,09:38,2011-08-12,16:40,General Surgery,M,95,F061,Miscellaneous mental health disorders
+84398,1995-01-17,14:03,1995-03-06,15:43,General Surgery,F,60,I670,Aortic; peripheral; and visceral artery aneurysms
+84511,1985-09-14,02:07,1986-03-20,08:55,General Surgery,M,17,P550,Hemolytic jaundice and perinatal jaundice
+84640,2017-05-10,04:30,2017-10-15,13:03,Obstetrics,F,54,F70,Developmental disorders
+84648,1982-04-19,12:37,1982-06-03,23:40,Obstetrics,F,88,I880,Lymphadenitis
+84712,2009-12-18,10:00,2010-04-21,22:59,General Surgery,M,32,W1840XA,External cause codes:  Overexertion
+84743,1995-01-18,11:45,1995-05-13,19:30,General Surgery,M,,I8000,Phlebitis; thrombophlebitis and thromboembolism
+84807,2008-04-22,22:53,2008-08-22,11:29,General Surgery,M,91,B150,Hepatitis
+84879,2002-09-29,17:49,2003-03-20,,General Surgery,M,78,I83001,Varicose veins of lower extremity
+84957,1987-11-09,08:25,1987-12-25,17:51,General Surgery,M,,F0630,Mood disorders
+84975,1999-01-09,01:38,1999-04-01,09:54,General Surgery,M,35,R570,Shock
+85106,1989-07-28,11:56,1990-01-27,12:59,General Surgery,F,85,C8100,Hodgkin`s disease
+85115,2009-04-11,14:18,2009-05-13,08:52,General Surgery,F,18,C153,Cancer of esophagus
+85194,1982-02-22,01:48,1982-06-20,03:22,Obstetrics,M,76,M300,Systemic lupus erythematosus and connective tissue disorders
+85260,1998-11-16,02:34,1998-12-02,21:08,Obstetrics,M,93,W320XXA,External cause codes:  Firearm
+85281,1997-03-07,15:39,1997-06-27,10:51,General Surgery,F,47,E840,Cystic fibrosis
+85352,1989-03-28,11:02,1989-10-14,04:15,General Surgery,F,48,V0210XA,External cause codes:  Motor vehicle traffic (MVT)
+85541,1989-11-15,05:26,1989-11-28,11:00,General Surgery,F,41,C4000,Cancer of bone and connective tissue
+85934,1997-12-04,14:48,1998-05-03,20:43,General Surgery,F,54,N139,Genitourinary symptoms and ill-defined conditions
+86161,1997-02-01,16:01,1997-05-24,11:20,General Surgery,F,20,C8100,Hodgkin`s disease
+86256,1996-03-10,09:44,1996-03-17,16:24,General Surgery,F,86,M2010,Acquired foot deformities
+86329,1997-06-05,04:03,1997-12-05,,General Surgery,F,20,M0500,Rheumatoid arthritis and related disease
+86402,2016-11-02,13:19,2017-05-08,18:49,General Surgery,F,51,K5000,Regional enteritis and ulcerative colitis
+86442,2009-12-04,01:08,2009-12-23,02:40,General Surgery,M,54,A3685,Urinary tract infections
+86538,1997-01-10,05:34,1997-06-11,17:54,General Surgery,F,27,C8100,Hodgkin`s disease
+86554,2003-10-29,02:26,2003-10-30,03:56,General Surgery,M,53,J0380,Acute and chronic tonsillitis
+86767,2012-03-28,22:01,2012-07-07,18:57,Obstetrics,F,95,D89810,Complication of device; implant or graft
+86776,1993-08-18,03:59,1993-08-19,07:48,General Surgery,M,42,A150,Tuberculosis
+86809,2015-05-06,02:45,2015-07-19,16:49,General Surgery,F,63,R072,Nonspecific chest pain
+86831,1998-01-15,17:03,1998-02-03,15:37,General Surgery,M,16,A0101,Meningitis (except that caused by tuberculosis or sexually transmitted disease)
+86852,1982-04-25,21:16,1982-05-04,04:35,General Surgery,M,65,R110,Nausea and vomiting
+86912,2013-11-29,10:06,2014-02-06,18:45,General Surgery,F,,A3681,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease)
+86924,2016-04-25,09:17,2016-06-26,02:02,Obstetrics,M,44,D250,Benign neoplasm of uterus
+86993,2018-07-10,17:11,2019-01-18,22:27,General Surgery,M,60,C530,Cancer of cervix
+87028,1983-02-15,02:26,1983-07-09,11:17,Obstetrics,F,55,C670,Cancer of bladder
+87190,1988-01-31,15:53,1988-07-31,04:10,General Surgery,M,56,N810,Prolapse of female genital organs
+87225,2009-03-15,11:42,2009-07-18,09:48,General Surgery,F,89,G40001,Epilepsy; convulsions
+87288,2006-02-19,01:47,2006-08-16,12:09,General Surgery,F,73,C180,Cancer of colon
+87442,1985-07-26,17:04,1986-01-04,04:10,General Surgery,F,65,D5700,Sickle cell anemia
+87449,1984-12-01,21:26,1985-02-10,06:07,General Surgery,F,79,L89000,Chronic ulcer of skin
+87450,1992-11-28,20:24,1993-03-16,13:24,Obstetrics,F,28,O045,
+87543,2000-05-02,11:07,2000-09-24,05:28,General Surgery,F,76,C540,Cancer of uterus
+87638,2013-12-23,08:04,2014-01-03,,Obstetrics,F,57,Y36460A,External cause codes:  Suffocation
+87645,1996-06-11,23:12,1996-10-04,07:07,General Surgery,F,19,K8000,Biliary tract disease
+87702,1986-10-21,01:08,1987-05-05,11:35,General Surgery,F,70,M0500,Rheumatoid arthritis and related disease
+87814,2017-04-25,23:31,2017-10-09,02:51,General Surgery,M,95,I2101,Acute myocardial infarction
+87820,2001-10-07,23:25,2001-12-07,09:20,General Surgery,F,49,J80,Respiratory failure; insufficiency; arrest (adult)
+87825,2005-09-10,14:55,2005-10-30,20:10,General Surgery,F,,C19,Cancer of rectum and anus
+87895,2011-08-25,15:42,2012-02-19,22:14,General Surgery,M,30,R55,Syncope
+87924,1984-05-04,02:24,1984-08-17,,Obstetrics,M,97,H40001,Glaucoma
+87946,2018-02-08,10:00,2018-03-29,01:27,General Surgery,F,59,I462,Cardiac arrest and ventricular fibrillation
+87999,2001-06-10,07:49,2001-11-08,20:28,General Surgery,M,27,A0104,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease)
+88008,2004-11-04,13:52,2004-12-20,05:01,General Surgery,M,89,B4481,Allergic reactions
+88065,1985-10-05,02:48,1986-01-10,05:16,General Surgery,M,16,C61,Cancer of prostate
+88095,1981-07-05,19:41,1981-07-14,09:49,General Surgery,F,24,E0800,Diabetes mellitus with complications
+88141,1985-11-07,10:35,1986-03-23,23:10,General Surgery,F,86,H5200,Blindness and vision defects
+88382,1986-08-03,16:35,1986-09-14,20:39,General Surgery,M,53,A7481,Peritonitis and intestinal abscess
+88466,1986-10-31,04:53,1986-11-19,03:03,General Surgery,M,76,G43001,Headache; including migraine
+88726,2010-07-18,14:01,2010-09-21,23:07,General Surgery,F,71,I440,Conduction disorders
+88776,1981-06-15,09:20,1981-09-16,02:18,Obstetrics,F,61,C61,Cancer of prostate
+88854,2006-03-26,09:41,2006-07-25,01:50,General Surgery,F,44,B20,HIV infection
+89102,1985-05-25,08:49,1985-09-16,11:03,Obstetrics,M,88,B4481,
+89123,2002-10-08,13:10,2003-04-21,08:51,Obstetrics,M,45,E000,Thyroid disorders
+89141,2016-09-17,04:52,2017-02-10,,General Surgery,F,44,L89000,Chronic ulcer of skin
+89170,1993-06-10,17:58,1993-07-29,10:12,General Surgery,M,57,P220,Respiratory distress syndrome
+89306,1987-06-27,08:33,1987-10-29,17:09,General Surgery,F,59,H8101,Conditions associated with dizziness or vertigo
+89316,1998-09-10,21:27,1998-09-15,09:20,Obstetrics,F,58,N800,Endometriosis
+89474,1992-03-13,06:22,1992-06-11,18:43,Obstetrics,M,74,B350,Mycoses
+89495,2019-03-07,23:03,2019-05-28,20:23,Obstetrics,F,17,V00111A,External cause codes:  Fall
+89553,2005-08-12,21:29,2005-10-26,23:57,General Surgery,F,34,C4000,Cancer of bone and connective tissue
+89645,1987-01-26,06:12,1987-07-17,01:40,General Surgery,F,57,S060X0A,Intracranial injury
+89710,2015-06-25,22:15,2015-12-22,22:15,General Surgery,M,97,R502,Adverse effects of medical drugs
+89722,2004-09-30,16:44,2004-11-07,14:24,General Surgery,M,98,C770,Secondary malignancies
+89788,2016-03-19,05:47,2016-06-03,22:59,General Surgery,M,25,Z44001,Rehabilitation care; fitting of prostheses; and adjustment of devices
+89920,2014-08-28,12:44,2015-03-14,02:51,General Surgery,F,65,O045,Induced abortion
+90032,1991-07-20,08:43,1991-10-09,05:27,General Surgery,F,63,C180,Cancer of colon
+90182,2015-08-12,21:21,2015-12-15,,General Surgery,F,66,C561,Cancer of ovary
+90296,1995-01-06,05:57,1995-05-04,19:00,General Surgery,M,52,A000,Intestinal infection
+90324,1994-08-21,03:23,1995-02-17,23:53,Obstetrics,F,75,C530,Cancer of cervix
+90355,2004-01-14,15:04,2004-07-20,23:50,General Surgery,M,55,R55,Syncope
+90378,2001-12-26,14:30,2002-02-17,02:33,General Surgery,F,22,C4000,Cancer of bone and connective tissue
+90401,2013-02-16,03:39,2013-08-10,23:41,Obstetrics,F,55,N830,Ovarian cyst
+90571,1985-06-25,15:51,1985-12-28,08:11,General Surgery,M,55,D250,Benign neoplasm of uterus
+90624,2004-06-14,02:27,2004-11-27,04:53,Obstetrics,F,23,R5081,Fever of unknown origin
+90688,2000-07-02,06:46,2000-12-12,11:04,General Surgery,M,34,A0104,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease)
+90780,1994-01-31,15:22,1994-06-15,15:44,Obstetrics,M,,M810,Osteoporosis
+90886,2009-03-24,17:24,2009-08-16,,Obstetrics,F,80,O320XX0,Malposition; malpresentation
+90986,1991-08-29,20:32,1992-02-01,09:33,General Surgery,F,32,I700,Peripheral and visceral atherosclerosis
+91064,2004-10-05,08:30,2005-04-06,04:38,Obstetrics,M,19,N810,Prolapse of female genital organs
+91255,1988-12-22,21:36,1989-05-17,15:07,Obstetrics,M,28,S031XXA,Sprains and strains
+91443,1980-06-28,06:46,1980-07-05,19:45,General Surgery,F,58,N800,Endometriosis
+91501,2014-03-23,22:24,2014-09-06,22:17,General Surgery,F,42,Z30011,Contraceptive and procreative management
+91540,2002-08-22,03:08,2002-09-12,11:19,Obstetrics,M,86,N200,Calculus of urinary tract
+91548,2005-07-10,07:32,2005-08-13,,Obstetrics,F,22,K850,Pancreatic disorders (not diabetes)
+91563,2012-01-19,16:56,2012-03-25,17:06,General Surgery,F,43,W240XXA,External cause codes:  Machinery
+91638,2019-07-21,12:18,2019-11-27,18:32,General Surgery,F,63,I10,Essential hypertension
+91642,1983-05-02,17:05,1983-07-06,20:59,General Surgery,F,32,C000,Cancer of head and neck
+91871,1991-12-01,11:09,1992-02-11,,Obstetrics,F,69,K8000,Biliary tract disease
+91874,1983-01-03,15:42,1983-02-20,18:04,General Surgery,F,,N400,Hyperplasia of prostate
+91911,2001-07-16,10:51,2001-07-18,21:12,General Surgery,F,50,G041,Paralysis
+91913,2017-11-26,14:35,2017-12-31,20:31,General Surgery,F,66,V0100XA,External cause codes:  Pedestrian; not MVT
+91956,1982-06-17,02:01,1982-07-14,,General Surgery,M,61,R55,Syncope
+92100,2002-11-23,17:28,2003-01-08,03:56,General Surgery,M,46,G43001,Headache; including migraine
+92168,1986-12-06,21:40,1987-03-11,01:28,General Surgery,M,42,A3685,Urinary tract infections
+92241,2000-08-25,13:34,2000-10-02,02:08,General Surgery,M,87,R110,Nausea and vomiting
+92242,1988-08-17,17:36,1988-08-23,16:00,Obstetrics,F,40,A6000,Viral infection
+92308,2003-02-23,13:06,2003-04-15,21:07,General Surgery,M,65,I0981,Congestive heart failure; nonhypertensive
+92392,1987-05-25,07:05,1987-10-20,,General Surgery,M,78,Q5001,Genitourinary congenital anomalies
+92401,2016-07-19,08:11,2016-09-29,,General Surgery,M,,I6501,
+92536,1990-02-15,04:25,1990-08-13,23:33,Obstetrics,F,85,M1250,Joint disorders and dislocations; trauma-related
+92563,2008-10-24,22:04,2009-02-28,,Obstetrics,F,53,C470,Cancer of brain and nervous system
+92565,1993-04-11,13:33,1993-07-19,15:55,General Surgery,M,94,S031XXA,Sprains and strains
+92628,1987-01-05,08:33,1987-03-13,12:06,General Surgery,M,70,W420XXA,External cause codes:  Natural/environment
+92639,2003-10-05,13:36,2004-04-18,11:02,General Surgery,M,59,W320XXA,External cause codes:  Firearm
+92805,2005-04-08,01:43,2005-08-09,,General Surgery,M,85,N830,Ovarian cyst
+92928,2010-05-03,05:34,2010-08-02,23:11,General Surgery,F,83,M84311A,Fracture of upper limb
+92950,2003-11-18,07:24,2004-04-04,16:29,General Surgery,M,21,D800,Immunity disorders
+93149,2019-02-26,04:44,2019-09-10,12:13,General Surgery,F,31,S0100XA,Open wounds of head; neck; and trunk
+93152,2011-11-01,08:36,2011-12-15,,General Surgery,F,45,K850,Pancreatic disorders (not diabetes)
+93188,1998-08-27,18:42,1999-02-06,,Obstetrics,M,85,M2010,Acquired foot deformities
+93339,2019-10-30,06:19,2019-11-24,11:01,Obstetrics,M,62,I6501,Occlusion or stenosis of precerebral arteries
+93585,2003-04-16,07:07,2003-07-24,01:38,General Surgery,M,77,T2000XA,Burns
+93627,2011-05-15,15:09,2011-12-01,06:16,Obstetrics,M,49,M150,Osteoarthritis
+94064,2006-09-12,13:13,2006-11-27,18:59,General Surgery,F,78,K4000,Abdominal hernia
+94133,2019-01-08,02:19,2019-07-20,03:34,General Surgery,F,79,O045,Induced abortion
+94269,1980-04-08,06:01,1980-05-15,,Obstetrics,F,78,C50011,Cancer of breast
+94304,1982-01-30,19:26,1982-06-15,17:47,General Surgery,M,23,H8101,Conditions associated with dizziness or vertigo
+94427,1985-12-05,08:59,1986-02-07,06:58,General Surgery,M,63,K2900,Gastritis and duodenitis
+94567,2008-01-11,12:43,2008-04-14,05:23,General Surgery,M,27,J40,Chronic obstructive pulmonary disease and bronchiectasis
+94626,1986-02-28,04:36,1986-04-28,22:36,General Surgery,M,65,I670,Aortic; peripheral; and visceral artery aneurysms
+94635,2000-10-24,01:17,2001-05-05,15:24,General Surgery,M,57,D62,Acute posthemorrhagic anemia
+94798,2014-01-15,02:54,2014-05-28,13:01,General Surgery,M,56,S0100XA,Open wounds of head; neck; and trunk
+94880,2016-07-17,20:13,2016-10-15,,Obstetrics,M,15,E780,Disorders of lipid metabolism
+95221,2003-08-26,04:06,2003-11-23,21:32,General Surgery,F,82,S020XXA,Skull and face fractures
+95551,2005-07-08,11:13,2005-10-03,02:09,Obstetrics,F,98,M300,Systemic lupus erythematosus and connective tissue disorders
+95553,2004-06-02,04:47,2004-10-28,,General Surgery,M,95,Q5001,Genitourinary congenital anomalies
+95892,2001-08-30,21:04,2001-12-22,22:03,Obstetrics,M,71,A6000,Viral infection
+95899,2014-10-19,10:58,2015-01-06,14:17,General Surgery,M,87,O320XX0,
+95947,2020-04-10,10:46,2020-06-28,20:35,General Surgery,F,95,M2010,
+95964,1980-01-07,14:44,1980-03-23,12:45,General Surgery,F,84,N897,Menstrual disorders
+96259,1983-03-17,12:39,1983-06-20,13:46,Obstetrics,F,51,B4481,Allergic reactions
+96304,1983-04-20,06:36,1983-05-28,07:43,General Surgery,M,30,D3701,Neoplasms of unspecified nature or uncertain behavior
+96340,1983-08-28,02:16,1983-11-01,15:59,General Surgery,M,37,E840,Cystic fibrosis
+96356,1995-09-07,18:11,1995-10-18,19:45,Obstetrics,M,73,O3421,Previous C-section
+96459,2011-05-17,16:54,2011-07-28,19:29,General Surgery,M,25,I0981,Congestive heart failure; nonhypertensive
+96485,2010-01-08,21:54,2010-03-05,06:57,General Surgery,F,50,D81818,Nutritional deficiencies
+96617,2019-04-14,04:24,2019-09-27,05:44,Obstetrics,M,29,N139,
+96685,1986-03-24,05:55,1986-06-21,12:36,General Surgery,F,80,O4700,Early or threatened labor
+97046,1989-11-07,13:51,1990-04-19,10:01,General Surgery,F,48,I050,Heart valve disorders
+97084,2017-08-02,04:18,2017-10-08,03:18,General Surgery,M,19,E0800,Diabetes mellitus with complications
+97130,1980-11-13,03:46,1980-12-19,10:09,Obstetrics,F,78,A3685,
+97211,1995-10-13,12:39,1995-10-16,22:09,Obstetrics,F,97,S070XXA,Crushing injury or internal injury
+97276,2007-02-08,12:29,2007-07-12,12:12,Obstetrics,F,50,K640,Hemorrhoids
+97281,1982-06-19,21:00,1982-12-05,,General Surgery,M,24,G450,Transient cerebral ischemia
+97314,2020-04-16,09:41,2020-06-02,,General Surgery,F,39,G450,Transient cerebral ischemia
+97446,2015-03-31,16:31,2015-05-08,05:11,General Surgery,F,49,P293,
+97633,2001-11-08,13:24,2002-04-20,23:55,General Surgery,F,57,P293,Cardiac and circulatory congenital anomalies
+97634,2003-05-18,15:04,2003-07-14,03:31,General Surgery,M,33,Y36460A,External cause codes:  Suffocation
+97677,1981-05-11,02:08,1981-05-26,01:21,General Surgery,M,33,B150,Hepatitis
+97991,1997-07-13,23:34,1997-12-20,23:40,Obstetrics,F,43,S060X0A,Intracranial injury
+98301,1988-10-26,06:43,1989-03-28,15:31,General Surgery,M,19,D700,Diseases of white blood cells
+98387,1992-09-29,10:18,1993-02-23,15:09,Obstetrics,M,89,P293,Cardiac and circulatory congenital anomalies
+98400,1984-10-06,17:53,1985-04-24,23:17,Obstetrics,F,79,C6200,Cancer of testis
+98409,2011-04-27,17:27,2011-09-07,08:47,General Surgery,F,77,E860,Fluid and electrolyte disorders
+98476,2010-10-03,18:20,2010-10-30,23:22,General Surgery,F,78,C540,Cancer of uterus
+98494,2008-01-25,23:53,2008-03-29,17:56,General Surgery,F,60,J0380,Acute and chronic tonsillitis
+98552,1999-11-03,21:36,2000-02-16,11:14,General Surgery,M,42,V00111A,External cause codes:  Fall
+98828,1990-08-28,23:14,1991-03-10,,General Surgery,M,,I83001,Varicose veins of lower extremity
+98981,1990-10-01,15:45,1991-01-04,13:39,General Surgery,M,72,F900,Attention-deficit conduct and disruptive behavior disorders
+98985,1997-09-07,16:28,1997-09-08,18:03,General Surgery,F,54,J0380,Acute and chronic tonsillitis
+99127,2020-04-24,13:14,2020-06-30,17:15,General Surgery,M,27,J0380,Acute and chronic tonsillitis
+99569,2018-10-04,02:08,2018-11-16,06:38,General Surgery,M,52,I700,Peripheral and visceral atherosclerosis
+99589,2005-03-18,15:22,2005-06-01,14:24,General Surgery,F,95,O030,Spontaneous abortion
+99683,1985-04-01,01:54,1985-08-24,10:22,Obstetrics,F,49,P550,Hemolytic jaundice and perinatal jaundice
+99705,2007-08-02,01:08,2008-01-02,02:51,Obstetrics,F,82,C9010,Leukemias
+99734,1981-01-07,17:05,1981-02-01,,General Surgery,M,16,Z30011,Contraceptive and procreative management
+99764,2013-03-10,14:39,2013-05-19,03:20,General Surgery,M,42,Q380,Digestive congenital anomalies
+99787,2004-07-19,08:09,2004-11-16,02:23,Obstetrics,M,45,C180,Cancer of colon
+99791,1996-08-29,05:18,1996-10-19,22:24,General Surgery,M,84,R55,Syncope
+99855,2006-05-20,17:46,2006-08-21,02:45,Obstetrics,F,79,I050,Heart valve disorders
+99858,1999-07-04,05:37,1999-08-26,23:55,General Surgery,M,98,I10,Essential hypertension
+99905,2009-11-11,04:43,2010-05-30,14:18,Obstetrics,F,86,R072,Nonspecific chest pain
